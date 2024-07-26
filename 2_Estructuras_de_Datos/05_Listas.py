@@ -1,4 +1,5 @@
 ### Listas ###
+## Una lista es una colección de diferentes tipos de datos que está ordenada y modificable
 
 # Uso de la función incorporada de lista
 empty_lst = list()
@@ -82,3 +83,5 @@ print(fruits)       # ['banana', 'orange', 'mango']
 
 fruits.pop(0)
 print(fruits)       # ['orange', 'mango']
+
+### Entre otros muchos métodos ###
