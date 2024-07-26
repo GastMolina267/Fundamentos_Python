@@ -34,3 +34,51 @@ print(first_item)     # item1
 print(second_item)    # item2
 print(third_item)     # item3
 print(rest)           # ['item4', 'item5']
+
+### Algunas funciones de la Lista ###
+
+# append()
+# Agregar un elemento al final de una lista existente
+lst = list()
+lst.append('item')
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.append('apple')
+print(fruits)           # ['banana', 'orange', 'mango', 'lemon', 'apple']
+fruits.append('lime')   # ['banana', 'orange', 'mango', 'lemon', 'apple', 'lime']
+print(fruits)
+
+# insert()
+# Para insertar un solo elemento en un índice específico en una lista.
+lst = ['item1', 'item2']
+lst.insert('index', 'item')
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.insert(2, 'apple') # insert apple between orange and mango
+print(fruits)           # ['banana', 'orange', 'apple', 'mango', 'lemon']
+fruits.insert(3, 'lime')   # ['banana', 'orange', 'apple', 'lime', 'mango', 'lemon']
+print(fruits)
+
+# remove()
+# Quitar un elemento especificado de una lista.
+lst = ['item1', 'item2']
+lst.remove('item')
+
+fruits = ['banana', 'orange', 'mango', 'lemon', 'banana']
+fruits.remove('banana')
+print(fruits)  # ['orange', 'mango', 'lemon', 'banana'] - this method removes the first occurrence of the item in the list
+fruits.remove('lemon')
+print(fruits)  # ['orange', 'mango', 'banana']
+
+# pop() 
+# Eliminar el índice especificado (o el último elemento si no se especifica el índice).
+lst = ['item1', 'item2']
+lst.pop()       # last item
+lst.pop('index')
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.pop()
+print(fruits)       # ['banana', 'orange', 'mango']
+
+fruits.pop(0)
+print(fruits)       # ['orange', 'mango']
