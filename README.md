@@ -38,13 +38,13 @@
 1. Clona este repositorio:
 
     ```sh
-    git clone https://github.com/tu-usuario/POO-UBP.git
+    git clone https://github.com/GastMolina267/Fundamentos_Python.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```sh
-    cd POO-UBP
+    cd Fundamentos_Python
     ```
 
 3. Instala las dependencias necesarias (si las hay):

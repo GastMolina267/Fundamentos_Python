@@ -1,4 +1,5 @@
 ### Tuplas ###
+## Una tupla es una colección de diferentes tipos de datos que está ordenada e inmutable
 
 # Creación de una tupla
 empty_tuple = ()
