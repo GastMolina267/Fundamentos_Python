@@ -3,10 +3,10 @@
 Este es el segundo tema del curso de Python. Aquí aprenderás sobre las principales estructuras de datos en Python: listas, tuplas, conjuntos (sets) y diccionarios.
 
 ## Contenido
-1. [Listas](#./05_Listas.py)
-2. [Tuplas](#./06_Tuplas.py)
-3. [Conjuntos (Sets)](#./07_Sets_Conjunto.py)
-4. [Diccionarios](#./08_Diccionarios.py)
+1. [Listas](./05_Listas.py)
+2. [Tuplas](./06_Tuplas.py)
+3. [Conjuntos (Sets)](./07_Sets_Conjunto.py)
+4. [Diccionarios](./08_Diccionarios.py)
 5. [Conclusión](#conclusión)
 
 ## 1. Listas

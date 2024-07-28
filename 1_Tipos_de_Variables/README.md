@@ -4,7 +4,7 @@ Este es el primer tema del curso de Python. Aquí aprenderás sobre los tipos de
 
 ## Contenido 📚🙌
 1. [Tipos de Variables](./01_Tipos_de_Variables.py)
-2. [Operadores Lógicos y Aritméticos](./02_Operadores_Lógicos_Aritméticos)
+2. [Operadores Lógicos y Aritméticos](./02_Operadores_Lógicos_Aritméticos.py)
 3. [Strings](./03_Strings.py)
 4. [Métodos de los Strings](./04_Métodos_String.py)
 5. [Conclusión](#conclusión)
