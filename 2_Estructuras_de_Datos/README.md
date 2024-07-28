@@ -156,7 +156,7 @@ for clave, valor in persona.items():
 print(len(persona))  # 3
 ```
 
-## 5. Conclusión
+## Conclusión
 
 Las estructuras de datos en Python (listas, tuplas, conjuntos y diccionarios) son fundamentales para organizar y manipular datos de manera eficiente. Cada una tiene sus propias características y casos de uso:
 
