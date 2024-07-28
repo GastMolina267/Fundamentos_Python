@@ -1,15 +1,15 @@
-# Tema 2: Estructuras de Datos en Python
+# Tema 2: Estructuras de Datos en Python 🐍
 
 Este es el segundo tema del curso de Python. Aquí aprenderás sobre las principales estructuras de datos en Python: listas, tuplas, conjuntos (sets) y diccionarios.
 
-## Contenido
+## Contenido 📚🙌
 1. [Listas](./05_Listas.py)
 2. [Tuplas](./06_Tuplas.py)
 3. [Conjuntos (Sets)](./07_Sets_Conjunto.py)
 4. [Diccionarios](./08_Diccionarios.py)
 5. [Conclusión](#conclusión)
 
-## 1. Listas
+## 1. Listas 📘
 
 Las listas son estructuras de datos mutables y ordenadas que pueden contener elementos de diferentes tipos.
 
@@ -45,7 +45,7 @@ for fruta in frutas:
     print(fruta)
 ```
 
-## 2. Tuplas
+## 2. Tuplas 📘
 
 Las tuplas son estructuras de datos inmutables y ordenadas.
 
@@ -78,7 +78,7 @@ for coord in coordenadas:
     print(coord)
 ```
 
-## 3. Conjuntos (Sets)
+## 3. Conjuntos (Sets) 📘
 
 Los conjuntos son colecciones no ordenadas de elementos únicos.
 
@@ -112,7 +112,7 @@ print("rojo" in colores)  # True
 print(len(colores))  # 3
 ```
 
-## 4. Diccionarios
+## 4. Diccionarios 📘
 
 Los diccionarios son estructuras de datos que almacenan pares clave-valor.
 
