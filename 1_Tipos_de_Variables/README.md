@@ -9,7 +9,7 @@ Este es el primer tema del curso de Python. Aquí aprenderás sobre los tipos de
 4. [Métodos de los Strings](./04_Métodos_String.py)
 5. [Conclusión](#conclusión)
 
-## Tipos de Variables 📘
+## 1. Tipos de Variables 📘
 
 En Python, existen varios tipos de variables que puedes utilizar. Aquí hay una descripción de los tipos más comunes:
 
@@ -79,7 +79,7 @@ print(a ** b) # Exponenciación: 1000
 print(a // b) # División entera: 3
 ```
 
-### Operadores Lógicos
+### 2. Operadores Lógicos
 
 Los operadores lógicos se utilizan para realizar operaciones lógicas:
 
@@ -100,7 +100,7 @@ print(x or y)  # True
 print(not x)   # False
 ```
 
-## Strings 📘
+## 3. Strings 📘
 
 Un string es una secuencia de caracteres. Puedes definir un string utilizando comillas simples (`'`) o dobles (`"`):
 
@@ -119,7 +119,7 @@ multilínea.
 """
 ```
 
-## Métodos de los Strings 📘
+## 4. Métodos de los Strings 📘
 
 Los strings en Python tienen muchos métodos útiles. Aquí algunos de los más comunes:
 
