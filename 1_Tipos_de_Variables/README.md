@@ -3,7 +3,7 @@
 Este es el primer tema del curso de Python. Aquí aprenderás sobre los tipos de variables, operadores lógicos y aritméticos, y cómo trabajar con strings y sus métodos.
 
 ## Contenido
-1. [Tipos de Variables](./1_Tipo_de_Variable/01_Tipos_de_Variables.py)
+1. [Tipos de Variables](./01_Tipos_de_Variables.py)
 2. [Operadores Lógicos y Aritméticos](#operadores-lógicos-y-aritméticos)
 3. [Strings](#strings)
 4. [Métodos de los Strings](#métodos-de-los-strings)
