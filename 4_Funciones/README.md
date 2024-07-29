@@ -11,7 +11,7 @@ Este es el cuarto tema del curso de Python. Aquí aprenderás sobre funciones, m
    - [Importación de módulos](#21-importación-de-módulos)
    - [Creación de módulos](#22-creación-de-módulos)
 3. [Comprensión de listas](./13_Compresión_de_Listas.py)
-4. [Tipos de errores y manejo de excepciones](./14_Tipos_de_Errores.py)
+4. [Tipos de errores y manejo de excepciones](#4-tipos-de-errores-y-manejo-de-excepciones)
 5. [Conclusión](#conclusión)
 
 ## 1. Funciones 📘
@@ -133,7 +133,7 @@ vocales_set = {letra for letra in "hello world" if letra in 'aeiou'}
 print(vocales_set)  # {'e', 'o'}
 ```
 
-## 4. Tipos de errores y manejo de excepciones 📘
+## 4. Tipos de errores y manejo de excepciones
 
 Python tiene varios tipos de errores incorporados y permite manejar excepciones.
 
