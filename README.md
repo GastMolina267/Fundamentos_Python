@@ -4,7 +4,7 @@
 
 ## Contenido 🙋‍♂️📚🙋‍♀️
 
-1. **Conceptos Básicos de Python**:
+1. [**Conceptos Básicos de Python**](./1_Tipos_de_Variables):
     - Sintaxis y estructuras de control
     - Funciones y módulos
     - Manejo de excepciones
