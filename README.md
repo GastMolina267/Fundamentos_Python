@@ -10,13 +10,13 @@
     - Manejo de excepciones
     - Programación funcional
 
-2. **Programación Orientada a Objetos en Python**:
+2. [**Programación Orientada a Objetos en Python**](./6_Programación_Orientada_a_Objetos):
     - Clases y objetos
     - Métodos y atributos
     - Herencia y polimorfismo
     - Encapsulamiento y abstracción
 
-3. **Conceptos Avanzados de Python**:
+3. [**Conceptos Avanzados de Python**](./5_Manejo_de_Archivos):
     - Decoradores y generadores
     - Manejo de archivos
     - Concurrencia y paralelismo
