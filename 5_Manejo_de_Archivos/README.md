@@ -1,8 +1,8 @@
-# Tema 6: Manejo de Archivos en Python
+# Tema 5: Manejo de Archivos en Python 🐍
 
 Este es el sexto tema del curso de Python. Aquí aprenderás sobre cómo trabajar con archivos en Python, incluyendo cómo leer, escribir y manipular archivos.
 
-## Contenido
+## Contenido 📚🙌
 1. [Apertura y Cierre de Archivos](#1-apertura-y-cierre-de-archivos)
 2. [Lectura de Archivos](#2-lectura-de-archivos)
 3. [Escritura en Archivos](#3-escritura-en-archivos)
