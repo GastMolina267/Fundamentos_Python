@@ -1,2 +1,0 @@
-### TKINTER ###
-## Gestión de archivos
