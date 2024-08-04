@@ -1,5 +1,5 @@
 ### TKINTER ###
-## Gestión de archivos
+## Gestión de imágenes
 import tkinter as tk
 # Nos permite trabajar con imágenes más allá de la función que viene integrada con Python
 # PIL permite manipular mejor las imágenes y trabajar con archivos jpg
@@ -12,6 +12,7 @@ if not os.path.exists("./Media/apple.png"):
 
 ventana = tk.Tk()
 ventana.title("Gestión de Imágenes con Tkinter")
+ventana.geometry("400x300")
 
 # Cargar la imagen
 imagen = Image.open("./Media/apple.png")

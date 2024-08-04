@@ -21,6 +21,8 @@
     - Manejo de archivos
     - Concurrencia y paralelismo
     - Testing y depuración
+    - TKinter
+    - Pandas
 
 4. **Proyectos y Ejemplos**:
     - Desarrollo de pequeños proyectos para aplicar los conceptos aprendidos
