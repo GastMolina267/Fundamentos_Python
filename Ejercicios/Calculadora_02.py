@@ -9,6 +9,8 @@ from tkinter import *
 from tkinter import ttk
 import math
 
+i = 0
+
 def tema_oscuro(*args):
     estilo.configure('mainframe.TFrame', background='#010924')
     estilo_label1.configure('Label1.TLabel', background='#010924', foreground='white')
@@ -32,6 +34,26 @@ def tema_claro(*args):
     estilo_botones_borrar.map('Botones_borrar.TButton', background= [('active', '#858585')])
     estilo_botones_restantes.configure('Botones_restantes.TButton', background='#CECECE', foreground='black')
     estilo_botones_restantes.map('Botones_restantes.TButton', background=[('active', '#858585')])
+
+'''def ingresarValores(tecla):
+    if tecla >= '0' and tecla <= '9' or tecla == '(' or tecla == ')' or tecla == '.':
+        entrada2.set(entrada2.get()+tecla)
+'''
+def click_boton(valor):
+    global i
+    entrada2.insert(i, valor)
+    i += 1
+
+def borrar():
+    entrada2.delete(0, END)
+    i = 0
+
+def operacion():
+    ecuacion = entrada2.get()
+    resultado = eval(ecuacion)
+    entrada2.delete(0, END)
+    entrada2.insert(0, resultado)
+    i = 0
 
 ventana = Tk()
 ventana.title("Calculadora")
@@ -69,7 +91,7 @@ entrada1 = StringVar()
 label_entrada1 = ttk.Label(mainframe, textvariable=entrada1, style="Label1.TLabel")
 label_entrada1.grid(column=0, row=0, columnspan=4, sticky=(W, N, E, S))
 
-entrada2 = StringVar()
+entrada2 = Entry(mainframe, font=("Calibri 20"), justify="right")
 label_entrada2 = ttk.Label(mainframe, textvariable=entrada2, style="Label2.TLabel")
 label_entrada2.grid(column=0, row=1, columnspan=4, sticky=(W, N, E, S))
 
@@ -91,29 +113,29 @@ estilo_botones_numeros.map('Botones_numeros.TButton', background=[('active', '#8
 # -------------------------------------
 # Creando los botones
 # -------------------------------------
-button0 = ttk.Button(mainframe, text="0", style="Botones_numeros.TButton")
-button1 = ttk.Button(mainframe, text="1", style="Botones_numeros.TButton")
-button2 = ttk.Button(mainframe, text="2", style="Botones_numeros.TButton")
-button3 = ttk.Button(mainframe, text="3", style="Botones_numeros.TButton")
-button4 = ttk.Button(mainframe, text="4", style="Botones_numeros.TButton")
-button5 = ttk.Button(mainframe, text="5", style="Botones_numeros.TButton")
-button6 = ttk.Button(mainframe, text="6", style="Botones_numeros.TButton")
-button7 = ttk.Button(mainframe, text="7", style="Botones_numeros.TButton")
-button8 = ttk.Button(mainframe, text="8", style="Botones_numeros.TButton")
-button9 = ttk.Button(mainframe, text="9", style="Botones_numeros.TButton")
+button0 = ttk.Button(mainframe, text="0", style="Botones_numeros.TButton", command=lambda:click_boton(0))
+button1 = ttk.Button(mainframe, text="1", style="Botones_numeros.TButton", command=lambda:click_boton(1))
+button2 = ttk.Button(mainframe, text="2", style="Botones_numeros.TButton", command=lambda:click_boton(2))
+button3 = ttk.Button(mainframe, text="3", style="Botones_numeros.TButton", command=lambda:click_boton(3))
+button4 = ttk.Button(mainframe, text="4", style="Botones_numeros.TButton", command=lambda:click_boton(4))
+button5 = ttk.Button(mainframe, text="5", style="Botones_numeros.TButton", command=lambda:click_boton(5))
+button6 = ttk.Button(mainframe, text="6", style="Botones_numeros.TButton", command=lambda:click_boton(6))
+button7 = ttk.Button(mainframe, text="7", style="Botones_numeros.TButton", command=lambda:click_boton(7))
+button8 = ttk.Button(mainframe, text="8", style="Botones_numeros.TButton", command=lambda:click_boton(8))
+button9 = ttk.Button(mainframe, text="9", style="Botones_numeros.TButton", command=lambda:click_boton(9))
 
 button_borrar = ttk.Button(mainframe, text=chr(9003), style="Botones_borrar.TButton")
 button_borrar_todo = ttk.Button(mainframe, text="C", style="Botones_borrar.TButton")
-button_parentesis1 = ttk.Button(mainframe, text="(", style="Botones_restantes.TButton")
-button_parentesis2 = ttk.Button(mainframe, text=")", style="Botones_restantes.TButton")
-button_punto = ttk.Button(mainframe, text=".", style="Botones_restantes.TButton")
+button_parentesis1 = ttk.Button(mainframe, text="(", style="Botones_restantes.TButton", command=lambda:click_boton("("))
+button_parentesis2 = ttk.Button(mainframe, text=")", style="Botones_restantes.TButton", command=lambda:click_boton(")"))
+button_punto = ttk.Button(mainframe, text=".", style="Botones_restantes.TButton", command=lambda:click_boton("."))
 
-button_divison= ttk.Button(mainframe, text=chr(247), style="Botones_restantes.TButton")
-button_multiplicacion= ttk.Button(mainframe, text="*", style="Botones_restantes.TButton")
-button_suma= ttk.Button(mainframe, text="+", style="Botones_restantes.TButton")
-button_resta= ttk.Button(mainframe, text="-", style="Botones_restantes.TButton")
+button_divison= ttk.Button(mainframe, text=chr(247), style="Botones_restantes.TButton", command=lambda:click_boton("/"))
+button_multiplicacion= ttk.Button(mainframe, text="*", style="Botones_restantes.TButton", command=lambda:click_boton("*"))
+button_suma= ttk.Button(mainframe, text="+", style="Botones_restantes.TButton", command=lambda:click_boton("+"))
+button_resta= ttk.Button(mainframe, text="-", style="Botones_restantes.TButton", command=lambda:click_boton("-"))
 
-button_igual = ttk.Button(mainframe, text="=", style="Botones_restantes.TButton")
+button_igual = ttk.Button(mainframe, text="=", style="Botones_restantes.TButton", command=operacion)
 button_raiz = ttk.Button(mainframe, text="√", style="Botones_restantes.TButton")
 
 # -------------------------------------
