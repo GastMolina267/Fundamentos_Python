@@ -4,6 +4,9 @@ import tkinter as tk
 # Nos permite trabajar con imágenes más allá de la función que viene integrada con Python
 # PIL permite manipular mejor las imágenes y trabajar con archivos jpg
 from PIL import Image, ImageTk
+'''
+pip install Pillow
+'''
 import os
 
 # Verifica si el archivo de imagen existe en el directorio actual
