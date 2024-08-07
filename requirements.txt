@@ -1,0 +1,43 @@
+# Data manipulation and analysis
+pandas==2.0.1
+numpy==1.24.3
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Image processing
+Pillow==9.5.0
+opencv-python==4.7.0.72
+
+# GUI
+tk==0.1.0
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Numerical and scientific computing
+scipy==1.10.1
+
+# Interactive development
+jupyter==1.0.0
+ipython==8.13.2
+
+# Web scraping
+requests==2.30.0
+beautifulsoup4==4.12.2
+
+# Progress bars
+tqdm==4.65.0
+
+# File handling
+openpyxl==3.1.2  # for Excel file support in pandas
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# Configuration file parsing
+configparser==5.3.0
+
+# Regular expressions
+regex==2023.5.5
