@@ -220,7 +220,7 @@ for child in mainframe.winfo_children():
     child.grid_configure(ipady=10, padx=1, pady=1)
 
 ventana.bind('<KeyPress-o>', tema_oscuro)
-ventana.bind('<KeyPress-c>', tema_claro)
+ventana.bind('<KeyPress-d>', tema_claro)
 ventana.bind('<Key>', ingresarValoresTeclado)
 ventana.bind('<KeyPress-b>', borrar)
 ventana.bind('<KeyPress-c>', borrarTodo)
