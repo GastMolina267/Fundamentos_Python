@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 
-##  Instlar Jupyter Notebook
+##  Instalar Jupyter Notebook
 
 # Convertir cadena de texto a datatime
 fecha_str = '2024-13-08 9:30:00:00'
