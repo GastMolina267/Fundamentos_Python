@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Voltorb,Electric Grass,Sphere Pokémon,0.5,13.0,Soundproof Static Aftermath,190,50,66,Medium Fast,Genderless,40,30,50,55,55,100
+Electrode,Electric Grass,Sphere Pokémon,1.2,71.0,Soundproof Static Aftermath,60,50,172,Medium Fast,Genderless,60,50,70,80,80,150
+Rotom,Electric Grass,Plasma Pokémon,0.3,0.3,Levitate,45,50,182,Medium Fast,Genderless,50,65,107,105,107,86

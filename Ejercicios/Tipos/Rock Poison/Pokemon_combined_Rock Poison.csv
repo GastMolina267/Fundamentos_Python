@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Nihilego,Rock Poison,Parasite Pokémon,1.2,55.5,1. Beast Boost,45,0,257,Slow,Genderless,109,53,47,127,131,103
+Glimmet,Rock Poison,Ore Pokémon,0.7,8.0,1. Toxic DebrisCorrosion (hidden ability),70,50,70,Medium Slow,"50% male, 50% female",48,35,42,105,60,60
+Glimmora,Rock Poison,Ore Pokémon,1.5,45.0,1. Toxic DebrisCorrosion (hidden ability),25,50,184,Medium Slow,"50% male, 50% female",83,55,90,130,81,86

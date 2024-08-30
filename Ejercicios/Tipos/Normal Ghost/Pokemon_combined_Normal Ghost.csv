@@ -1,0 +1,3 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Zorua,Normal Ghost,Spiteful Fox Pokémon,0.7,12.5,Illusion,75,50,66,Medium Slow,"87.5% male, 12.5% female",35,60,40,85,40,70
+Zoroark,Normal Ghost,Baneful Fox Pokémon,1.6,73.0,Illusion,45,50,179,Medium Slow,"87.5% male, 12.5% female",55,100,60,125,60,110

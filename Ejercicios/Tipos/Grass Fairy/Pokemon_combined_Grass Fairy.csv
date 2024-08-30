@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Cottonee,Grass Fairy,Cotton Puff Pokémon,0.3,0.6,1. Prankster2. InfiltratorChlorophyll (hidden ability),190,50,56,Medium Fast,"50% male, 50% female",40,27,60,37,50,66
+Whimsicott,Grass Fairy,Windveiled Pokémon,0.7,6.6,1. Prankster2. InfiltratorChlorophyll (hidden ability),75,50,168,Medium Fast,"50% male, 50% female",60,67,85,77,75,116
+Morelull,Grass Fairy,Illuminating Pokémon,0.2,1.5,1. Illuminate2. Effect SporeRain Dish (hidden ability),190,50,57,Medium Fast,"50% male, 50% female",40,35,55,65,75,15
+Shiinotic,Grass Fairy,Illuminating Pokémon,1.0,11.5,1. Illuminate2. Effect SporeRain Dish (hidden ability),75,50,142,Medium Fast,"50% male, 50% female",60,45,80,90,100,30
+Tapu Bulu,Grass Fairy,Land Spirit Pokémon,1.9,45.5,1. Grassy SurgeTelepathy (hidden ability),3,50,257,Slow,Genderless,70,130,115,85,95,75

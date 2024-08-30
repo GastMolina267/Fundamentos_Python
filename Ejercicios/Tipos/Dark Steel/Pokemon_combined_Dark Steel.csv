@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Pawniard,Dark Steel,Sharp Blade Pokémon,0.5,10.2,1. Defiant2. Inner FocusPressure (hidden ability),120,35,68,Medium Fast,"50% male, 50% female",45,85,70,40,40,60
+Bisharp,Dark Steel,Sword Blade Pokémon,1.6,70.0,1. Defiant2. Inner FocusPressure (hidden ability),45,35,172,Medium Fast,"50% male, 50% female",65,125,100,60,70,70
+Kingambit,Dark Steel,Big Blade Pokémon,2.0,120.0,1. Defiant2. Supreme OverlordPressure (hidden ability),25,50,275,Medium Fast,"50% male, 50% female",100,135,120,60,85,50

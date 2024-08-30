@@ -1,0 +1,28 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Mankey,Fighting,Pig Monkey Pokémon,0.5,28.0,1. Vital Spirit2. Anger PointDefiant (hidden ability),190,50,61,Medium Fast,"50% male, 50% female",40,80,35,35,45,70
+Primeape,Fighting,Pig Monkey Pokémon,1.0,32.0,1. Vital Spirit2. Anger PointDefiant (hidden ability),75,50,159,Medium Fast,"50% male, 50% female",65,105,60,60,70,95
+Machop,Fighting,Superpower Pokémon,0.8,19.5,1. Guts2. No GuardSteadfast (hidden ability),180,50,61,Medium Slow,"75% male, 25% female",70,80,50,35,35,35
+Machoke,Fighting,Superpower Pokémon,1.5,70.5,1. Guts2. No GuardSteadfast (hidden ability),90,50,142,Medium Slow,"75% male, 25% female",80,100,70,50,60,45
+Machamp,Fighting,Superpower Pokémon,1.6,130.0,1. Guts2. No GuardSteadfast (hidden ability),45,50,227,Medium Slow,"75% male, 25% female",90,130,80,65,85,55
+Farfetch'd,Fighting,Wild Duck Pokémon,0.8,42.0,Steadfast Scrappy,45,50,132,Medium Fast,"50% male, 50% female",52,95,55,58,62,55
+Hitmonlee,Fighting,Kicking Pokémon,1.5,49.8,1. Limber2. RecklessUnburden (hidden ability),45,50,159,Medium Fast,"100% male, 0% female",50,120,53,35,110,87
+Hitmonchan,Fighting,Punching Pokémon,1.4,50.2,1. Keen Eye2. Iron FistInner Focus (hidden ability),45,50,159,Medium Fast,"100% male, 0% female",50,105,79,35,110,76
+Tyrogue,Fighting,Scuffle Pokémon,0.7,21.0,1. Guts2. SteadfastVital Spirit (hidden ability),75,50,42,Medium Fast,"100% male, 0% female",35,35,35,35,35,35
+Hitmontop,Fighting,Handstand Pokémon,1.4,48.0,1. Intimidate2. TechnicianSteadfast (hidden ability),45,50,159,Medium Fast,"100% male, 0% female",50,95,95,35,110,70
+Makuhita,Fighting,Guts Pokémon,1.0,86.4,1. Thick Fat2. GutsSheer Force (hidden ability),180,50,47,Fluctuating,"75% male, 25% female",72,60,30,20,30,25
+Hariyama,Fighting,Arm Thrust Pokémon,2.3,253.8,1. Thick Fat2. GutsSheer Force (hidden ability),200,50,166,Fluctuating,"75% male, 25% female",144,120,60,40,60,50
+Riolu,Fighting,Emanation Pokémon,0.7,20.2,1. Steadfast2. Inner FocusPrankster (hidden ability),75,50,57,Medium Slow,"87.5% male, 12.5% female",40,70,40,35,40,60
+Timburr,Fighting,Muscular Pokémon,0.6,12.5,1. Guts2. Sheer ForceIron Fist (hidden ability),180,70,61,Medium Slow,"75% male, 25% female",75,80,55,25,35,35
+Gurdurr,Fighting,Muscular Pokémon,1.2,40.0,1. Guts2. Sheer ForceIron Fist (hidden ability),90,50,142,Medium Slow,"75% male, 25% female",85,105,85,40,50,40
+Conkeldurr,Fighting,Muscular Pokémon,1.4,87.0,1. Guts2. Sheer ForceIron Fist (hidden ability),45,50,227,Medium Slow,"75% male, 25% female",105,140,95,55,65,45
+Throh,Fighting,Judo Pokémon,1.3,55.5,1. Guts2. Inner FocusMold Breaker (hidden ability),45,50,163,Medium Fast,"100% male, 0% female",120,100,85,30,85,45
+Sawk,Fighting,Karate Pokémon,1.4,51.0,1. Sturdy2. Inner FocusMold Breaker (hidden ability),45,50,163,Medium Fast,"100% male, 0% female",75,125,75,30,75,85
+Mienfoo,Fighting,Martial Arts Pokémon,0.9,20.0,1. Inner Focus2. RegeneratorReckless (hidden ability),180,50,70,Medium Slow,"50% male, 50% female",45,85,50,55,50,65
+Mienshao,Fighting,Martial Arts Pokémon,1.4,35.5,1. Inner Focus2. RegeneratorReckless (hidden ability),45,50,179,Medium Slow,"50% male, 50% female",65,125,60,95,60,105
+Pancham,Fighting,Playful Pokémon,0.6,8.0,1. Iron Fist2. Mold BreakerScrappy (hidden ability),220,50,70,Medium Fast,"50% male, 50% female",67,82,62,46,48,43
+Crabrawler,Fighting,Boxing Pokémon,0.6,7.0,1. Hyper Cutter2. Iron FistAnger Point (hidden ability),225,50,68,Medium Fast,"50% male, 50% female",47,82,57,42,47,63
+Passimian,Fighting,Teamwork Pokémon,2.0,82.8,1. ReceiverDefiant (hidden ability),45,50,172,Slow,"50% male, 50% female",100,120,90,40,60,80
+Clobbopus,Fighting,Tantrum Pokémon,0.6,4.0,1. LimberTechnician (hidden ability),180,50,62,Medium Slow,"50% male, 50% female",50,68,60,50,50,32
+Grapploct,Fighting,Tantrum Pokémon,1.6,39.0,1. LimberTechnician (hidden ability),45,50,168,Medium Slow,"50% male, 50% female",80,118,90,70,80,42
+Falinks,Fighting,Formation Pokémon,3.0,62.0,1. Battle ArmorDefiant (hidden ability),45,50,165,Medium Fast,Genderless,65,100,100,70,60,75
+Kubfu,Fighting,Wushu Pokémon,0.6,12.0,1. Inner Focus,3,50,77,Slow,"87.5% male, 12.5% female",60,90,60,53,50,72

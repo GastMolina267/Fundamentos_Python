@@ -1,0 +1,74 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Squirtle,Water,Tiny Turtle Pokémon,0.5,9.0,1. TorrentRain Dish (hidden ability),45,50,63,Medium Slow,"87.5% male, 12.5% female",44,48,65,50,64,43
+Wartortle,Water,Turtle Pokémon,1.0,22.5,1. TorrentRain Dish (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",59,63,80,65,80,58
+Blastoise,Water,Shellfish Pokémon,1.6,101.1,Mega Launcher,45,50,284,Medium Slow,"87.5% male, 12.5% female",79,103,120,135,115,78
+Psyduck,Water,Duck Pokémon,0.8,19.6,1. Damp2. Cloud NineSwift Swim (hidden ability),190,50,64,Medium Fast,"50% male, 50% female",50,52,48,65,50,55
+Golduck,Water,Duck Pokémon,1.7,76.6,1. Damp2. Cloud NineSwift Swim (hidden ability),75,50,175,Medium Fast,"50% male, 50% female",80,82,78,95,80,85
+Poliwag,Water,Tadpole Pokémon,0.6,12.4,1. Water Absorb2. DampSwift Swim (hidden ability),255,50,60,Medium Slow,"50% male, 50% female",40,50,40,40,40,90
+Poliwhirl,Water,Tadpole Pokémon,1.0,20.0,1. Water Absorb2. DampSwift Swim (hidden ability),120,50,135,Medium Slow,"50% male, 50% female",65,65,65,50,50,90
+Seel,Water,Sea Lion Pokémon,1.1,90.0,1. Thick Fat2. HydrationIce Body (hidden ability),190,50,65,Medium Fast,"50% male, 50% female",65,45,55,45,70,45
+Shellder,Water,Bivalve Pokémon,0.3,4.0,1. Shell Armor2. Skill LinkOvercoat (hidden ability),190,50,61,Slow,"50% male, 50% female",30,65,100,45,25,40
+Krabby,Water,River Crab Pokémon,0.4,6.5,1. Hyper Cutter2. Shell ArmorSheer Force (hidden ability),225,50,65,Medium Fast,"50% male, 50% female",30,105,90,25,25,50
+Kingler,Water,Pincer Pokémon,1.3,60.0,1. Hyper Cutter2. Shell ArmorSheer Force (hidden ability),60,50,166,Medium Fast,"50% male, 50% female",55,130,115,50,50,75
+Horsea,Water,Dragon Pokémon,0.4,8.0,1. Swift Swim2. SniperDamp (hidden ability),225,50,59,Medium Fast,"50% male, 50% female",30,40,70,70,25,60
+Seadra,Water,Dragon Pokémon,1.2,25.0,1. Poison Point2. SniperDamp (hidden ability),75,50,154,Medium Fast,"50% male, 50% female",55,65,95,95,45,85
+Goldeen,Water,Goldfish Pokémon,0.6,15.0,1. Swift Swim2. Water VeilLightning Rod (hidden ability),225,50,64,Medium Fast,"50% male, 50% female",45,67,60,35,50,63
+Seaking,Water,Goldfish Pokémon,1.3,39.0,1. Swift Swim2. Water VeilLightning Rod (hidden ability),60,50,158,Medium Fast,"50% male, 50% female",80,92,65,65,80,68
+Staryu,Water,Star Shape Pokémon,0.8,34.5,1. Illuminate2. Natural CureAnalytic (hidden ability),225,50,68,Slow,Genderless,30,45,55,70,55,85
+Magikarp,Water,Fish Pokémon,0.9,10.0,1. Swift SwimRattled (hidden ability),255,50,40,Slow,"50% male, 50% female",20,10,55,15,20,80
+Vaporeon,Water,Bubble Jet Pokémon,1.0,29.0,1. Water AbsorbHydration (hidden ability),45,50,184,Medium Fast,"87.5% male, 12.5% female",130,65,60,110,95,65
+Totodile,Water,Big Jaw Pokémon,0.6,9.5,1. TorrentSheer Force (hidden ability),45,50,63,Medium Slow,"87.5% male, 12.5% female",50,65,64,44,48,43
+Croconaw,Water,Big Jaw Pokémon,1.1,25.0,1. TorrentSheer Force (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",65,80,80,59,63,58
+Feraligatr,Water,Big Jaw Pokémon,2.3,88.8,1. TorrentSheer Force (hidden ability),45,50,239,Medium Slow,"87.5% male, 12.5% female",85,105,100,79,83,78
+Politoed,Water,Frog Pokémon,1.1,33.9,1. Water Absorb2. DampDrizzle (hidden ability),45,50,225,Medium Slow,"50% male, 50% female",90,75,75,90,100,70
+Remoraid,Water,Jet Pokémon,0.6,12.0,1. Hustle2. SniperMoody (hidden ability),190,50,60,Medium Fast,"50% male, 50% female",35,65,35,65,35,65
+Octillery,Water,Jet Pokémon,0.9,28.5,1. Suction Cups2. SniperMoody (hidden ability),75,50,168,Medium Fast,"50% male, 50% female",75,105,75,105,75,45
+Suicune,Water,Aurora Pokémon,2.0,187.0,1. PressureInner Focus (hidden ability),3,35,261,Slow,Genderless,100,75,115,90,115,85
+Mudkip,Water,Mud Fish Pokémon,0.4,7.6,1. TorrentDamp (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",50,70,50,50,50,40
+Wailmer,Water,Ball Whale Pokémon,2.0,130.0,1. Water Veil2. ObliviousPressure (hidden ability),125,50,80,Fluctuating,"50% male, 50% female",130,70,35,70,35,60
+Wailord,Water,Float Whale Pokémon,14.5,398.0,1. Water Veil2. ObliviousPressure (hidden ability),60,50,175,Fluctuating,"50% male, 50% female",170,90,45,90,45,60
+Corphish,Water,Ruffian Pokémon,0.6,11.5,1. Hyper Cutter2. Shell ArmorAdaptability (hidden ability),205,50,62,Fluctuating,"50% male, 50% female",43,80,65,50,35,35
+Feebas,Water,Fish Pokémon,0.6,7.4,1. Swift Swim2. ObliviousAdaptability (hidden ability),255,50,40,Erratic,"50% male, 50% female",20,15,20,10,55,80
+Milotic,Water,Tender Pokémon,6.2,162.0,1. Marvel Scale2. CompetitiveCute Charm (hidden ability),60,50,189,Erratic,"50% male, 50% female",95,60,79,100,125,81
+Clamperl,Water,Bivalve Pokémon,0.4,52.5,1. Shell ArmorRattled (hidden ability),255,50,69,Erratic,"50% male, 50% female",35,64,85,74,55,32
+Huntail,Water,Deep Sea Pokémon,1.7,27.0,1. Swift SwimWater Veil (hidden ability),60,50,170,Erratic,"50% male, 50% female",55,104,105,94,75,52
+Gorebyss,Water,South Sea Pokémon,1.8,22.6,1. Swift SwimHydration (hidden ability),60,50,170,Erratic,"50% male, 50% female",55,84,105,114,75,52
+Luvdisc,Water,Rendezvous Pokémon,0.6,8.7,1. Swift SwimHydration (hidden ability),225,50,116,Fast,"25% male, 75% female",43,30,55,40,65,97
+Kyogre,Water,Sea Basin Pokémon,9.8,430.0,Primordial Sea,5,0,347,Slow,Genderless,100,150,90,180,160,90
+Piplup,Water,Penguin Pokémon,0.4,5.2,1. TorrentDefiant (hidden ability),45,50,63,Medium Slow,"87.5% male, 12.5% female",53,51,53,61,56,40
+Prinplup,Water,Penguin Pokémon,0.8,23.0,1. TorrentDefiant (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",64,66,68,81,76,50
+Buizel,Water,Sea Weasel Pokémon,0.7,29.5,1. Swift SwimWater Veil (hidden ability),190,50,66,Medium Fast,"50% male, 50% female",55,65,35,60,30,85
+Floatzel,Water,Sea Weasel Pokémon,1.1,33.5,1. Swift SwimWater Veil (hidden ability),75,50,173,Medium Fast,"50% male, 50% female",85,105,55,85,50,115
+Shellos,Water,Sea Slug Pokémon,0.3,6.3,1. Sticky Hold2. Storm DrainSand Force (hidden ability),190,50,65,Medium Fast,"50% male, 50% female",76,48,48,57,62,34
+Finneon,Water,Wing Fish Pokémon,0.4,7.0,1. Swift Swim2. Storm DrainWater Veil (hidden ability),190,50,66,Erratic,"50% male, 50% female",49,49,56,49,61,66
+Lumineon,Water,Neon Pokémon,1.2,24.0,1. Swift Swim2. Storm DrainWater Veil (hidden ability),75,50,161,Erratic,"50% male, 50% female",69,69,76,69,86,91
+Phione,Water,Sea Drifter Pokémon,0.4,3.1,1. Hydration,30,50,216,Slow,Genderless,80,80,80,80,80,80
+Manaphy,Water,Seafaring Pokémon,0.3,1.4,1. Hydration,3,50,270,Slow,Genderless,100,100,100,100,100,100
+Oshawott,Water,Sea Otter Pokémon,0.5,5.9,1. TorrentShell Armor (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",55,55,45,63,45,45
+Dewott,Water,Discipline Pokémon,0.8,24.5,1. TorrentShell Armor (hidden ability),45,50,145,Medium Slow,"87.5% male, 12.5% female",75,75,60,83,60,60
+Panpour,Water,Spray Pokémon,0.6,13.5,1. GluttonyTorrent (hidden ability),190,50,63,Medium Fast,"87.5% male, 12.5% female",50,53,48,53,48,64
+Simipour,Water,Geyser Pokémon,1.0,29.0,1. GluttonyTorrent (hidden ability),75,50,174,Medium Fast,"87.5% male, 12.5% female",75,98,63,98,63,101
+Tympole,Water,Tadpole Pokémon,0.5,4.5,1. Swift Swim2. HydrationWater Absorb (hidden ability),255,50,59,Medium Slow,"50% male, 50% female",50,50,40,50,40,64
+Basculin,Water,Mellow Pokémon,1.0,18.0,Rattled Adaptability Mold Breaker,25,50,161,Medium Fast,"50% male, 50% female",70,92,65,80,55,98
+Alomomola,Water,Caring Pokémon,1.2,31.6,1. Healer2. HydrationRegenerator (hidden ability),75,50,165,Fast,"50% male, 50% female",165,75,80,40,45,65
+Froakie,Water,Bubble Frog Pokémon,0.3,7.0,1. TorrentProtean (hidden ability),45,50,63,Medium Slow,"87.5% male, 12.5% female",41,56,40,62,44,71
+Frogadier,Water,Bubble Frog Pokémon,0.6,10.9,1. TorrentProtean (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",54,63,52,83,56,97
+Clauncher,Water,Water Gun Pokémon,0.5,8.3,1. Mega Launcher,225,50,66,Slow,"50% male, 50% female",50,53,62,58,63,44
+Clawitzer,Water,Howitzer Pokémon,1.3,35.3,1. Mega Launcher,55,50,100,Slow,"50% male, 50% female",71,73,88,120,89,59
+Popplio,Water,Sea Lion Pokémon,0.4,7.5,1. TorrentLiquid Voice (hidden ability),45,50,64,Medium Slow,"87.5% male, 12.5% female",50,54,54,66,56,40
+Brionne,Water,Pop Star Pokémon,0.6,17.5,1. TorrentLiquid Voice (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",60,69,69,91,81,50
+Wishiwashi,Water,Small Fry Pokémon,8.2,78.6,Schooling,60,50,217,Fast,"50% male, 50% female",45,140,130,140,135,30
+Pyukumuku,Water,Sea Cucumber Pokémon,0.3,1.2,1. Innards OutUnaware (hidden ability),60,50,144,Fast,"50% male, 50% female",55,60,130,30,130,5
+Sobble,Water,Water Lizard Pokémon,0.3,4.0,1. TorrentSniper (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",50,40,40,70,40,70
+Drizzile,Water,Water lizard Pokémon,0.7,11.5,1. TorrentSniper (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",65,60,55,95,55,90
+Inteleon,Water,Secret Agent Pokémon,1.9,45.2,1. TorrentSniper (hidden ability),45,50,265,Medium Slow,"87.5% male, 12.5% female",70,85,65,125,65,120
+Chewtle,Water,Snapping Pokémon,0.3,8.5,1. Strong Jaw2. Shell ArmorSwift Swim (hidden ability),255,50,57,Medium Fast,"50% male, 50% female",50,64,50,38,38,44
+Arrokuda,Water,Rush Pokémon,0.5,1.0,1. Swift SwimPropeller Tail (hidden ability),255,50,56,Slow,"50% male, 50% female",41,63,40,40,30,66
+Barraskewda,Water,Skewer Pokémon,1.3,30.0,1. Swift SwimPropeller Tail (hidden ability),60,50,172,Slow,"50% male, 50% female",61,123,60,60,50,136
+Quaxly,Water,Duckling Pokémon,0.5,6.1,1. TorrentMoxie (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",55,65,45,50,45,50
+Quaxwell,Water,Practicing Pokémon,1.2,21.5,1. TorrentMoxie (hidden ability),45,50,144,Medium Slow,"87.5% male, 12.5% female",70,85,65,65,60,65
+Wiglett,Water,Garden Eel Pokémon,1.2,1.8,1. Gooey2. RattledSand Veil (hidden ability),255,50,49,Medium Fast,"50% male, 50% female",10,55,25,35,25,95
+Wugtrio,Water,Garden Eel Pokémon,1.2,5.4,1. Gooey2. RattledSand Veil (hidden ability),50,50,149,Medium Fast,"50% male, 50% female",35,100,50,50,70,120
+Finizen,Water,Dolphin Pokémon,1.3,60.2,1. Water Veil,200,50,63,Slow,"50% male, 50% female",70,45,40,45,40,75
+Palafin,Water,Hero Pokémon,1.8,97.4,Zero to Hero,45,50,228,Slow,"50% male, 50% female",100,160,97,106,87,100
+Dondozo,Water,Big Catfish Pokémon,12.0,220.0,1. Unaware2. ObliviousWater Veil (hidden ability),25,50,265,Slow,"50% male, 50% female",150,100,115,65,65,35

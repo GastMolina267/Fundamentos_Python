@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dragonite,Dragon Flying,Dragon Pokémon,2.2,210.0,1. Inner FocusMultiscale (hidden ability),45,35,300,Slow,"50% male, 50% female",91,134,95,100,100,80
+Salamence,Dragon Flying,Dragon Pokémon,1.8,112.6,Aerilate,45,35,315,Slow,"50% male, 50% female",95,145,130,120,90,120
+Rayquaza,Dragon Flying,Sky High Pokémon,10.8,392.0,Delta Stream,3,0,351,Slow,Genderless,105,180,100,180,100,115

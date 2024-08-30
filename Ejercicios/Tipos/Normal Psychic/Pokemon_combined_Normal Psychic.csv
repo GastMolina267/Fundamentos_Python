@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Girafarig,Normal Psychic,Long Neck Pokémon,1.5,41.5,1. Inner Focus2. Early BirdSap Sipper (hidden ability),60,50,159,Medium Fast,"50% male, 50% female",70,80,65,90,65,85
+Oranguru,Normal Psychic,Sage Pokémon,1.5,76.0,1. Inner Focus2. TelepathySymbiosis (hidden ability),45,50,172,Slow,"50% male, 50% female",90,60,80,90,110,60
+Wyrdeer,Normal Psychic,Big Horn Pokémon,1.8,95.1,1. Intimidate2. FriskSap Sipper (hidden ability),45,50,263,Slow,"50% male, 50% female",103,105,72,105,75,65
+Farigiraf,Normal Psychic,Long Neck Pokémon,3.2,160.0,1. Cud Chew2. Armor TailSap Sipper (hidden ability),45,50,260,Medium Fast,"50% male, 50% female",120,90,70,110,70,60

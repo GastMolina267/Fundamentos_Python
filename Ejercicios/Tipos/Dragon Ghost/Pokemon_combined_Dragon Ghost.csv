@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dreepy,Dragon Ghost,Lingering Pokémon,0.5,2.0,1. Clear Body2. InfiltratorCursed Body (hidden ability),45,50,54,Slow,"50% male, 50% female",28,60,30,40,30,82
+Drakloak,Dragon Ghost,Caretaker Pokémon,1.4,11.0,1. Clear Body2. InfiltratorCursed Body (hidden ability),45,50,144,Slow,"50% male, 50% female",68,80,50,60,50,102
+Dragapult,Dragon Ghost,Stealth Pokémon,3.0,50.0,1. Clear Body2. InfiltratorCursed Body (hidden ability),45,50,300,Slow,"50% male, 50% female",88,120,75,100,75,142

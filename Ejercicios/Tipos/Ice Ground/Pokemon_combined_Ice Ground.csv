@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Swinub,Ice Ground,Pig Pokémon,0.4,6.5,1. Oblivious2. Snow CloakThick Fat (hidden ability),225,50,50,Slow,"50% male, 50% female",50,50,40,30,30,50
+Piloswine,Ice Ground,Swine Pokémon,1.1,55.8,1. Oblivious2. Snow CloakThick Fat (hidden ability),75,50,158,Slow,"50% male, 50% female",100,100,80,60,60,50
+Mamoswine,Ice Ground,Twin Tusk Pokémon,2.5,291.0,1. Oblivious2. Snow CloakThick Fat (hidden ability),50,50,239,Slow,"50% male, 50% female",110,130,80,70,60,80

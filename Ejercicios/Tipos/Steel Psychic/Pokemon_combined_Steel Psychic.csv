@@ -1,0 +1,8 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Beldum,Steel Psychic,Iron Ball Pokémon,0.6,95.2,1. Clear BodyLight Metal (hidden ability),3,35,60,Slow,Genderless,40,55,80,35,60,30
+Metang,Steel Psychic,Iron Claw Pokémon,1.2,202.5,1. Clear BodyLight Metal (hidden ability),3,35,147,Slow,Genderless,60,75,100,55,80,50
+Metagross,Steel Psychic,Iron Leg Pokémon,2.5,942.9,Tough Claws,3,35,315,Slow,Genderless,80,145,150,105,110,110
+Jirachi,Steel Psychic,Wish Pokémon,0.3,1.1,1. Serene Grace,3,100,270,Slow,Genderless,100,100,100,100,100,100
+Bronzor,Steel Psychic,Bronze Pokémon,0.5,60.5,1. Levitate2. HeatproofHeavy Metal (hidden ability),255,50,60,Medium Fast,Genderless,57,24,86,24,86,23
+Bronzong,Steel Psychic,Bronze Bell Pokémon,1.3,187.0,1. Levitate2. HeatproofHeavy Metal (hidden ability),90,50,175,Medium Fast,Genderless,67,89,116,79,116,33
+Iron Crown,Steel Psychic,Paradox Pokémon,1.6,156.0,1. Quark Drive,10,0,0,Slow,Genderless,90,72,100,122,108,98

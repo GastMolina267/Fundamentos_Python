@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Zacian,Fairy Steel,Warrior Pokémon,2.8,355.0,Intrepid Sword,10,0,350,Slow,Genderless,92,150,115,80,115,148
+Tinkatink,Fairy Steel,Metalsmith Pokémon,0.4,8.9,1. Mold Breaker2. Own TempoPickpocket (hidden ability),190,50,59,Medium Slow,"0% male, 100% female",50,45,45,35,64,58
+Tinkatuff,Fairy Steel,Hammer Pokémon,0.7,59.1,1. Mold Breaker2. Own TempoPickpocket (hidden ability),90,50,133,Medium Slow,"0% male, 100% female",65,55,55,45,82,78
+Tinkaton,Fairy Steel,Hammer Pokémon,0.7,112.8,1. Mold Breaker2. Own TempoPickpocket (hidden ability),45,50,253,Medium Slow,"0% male, 100% female",85,75,77,70,105,94

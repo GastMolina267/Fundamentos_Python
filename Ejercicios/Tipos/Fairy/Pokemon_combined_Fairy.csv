@@ -1,0 +1,20 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Clefairy,Fairy,Fairy Pokémon,0.6,7.5,1. Cute Charm2. Magic GuardFriend Guard (hidden ability),150,140,113,Fast,"25% male, 75% female",70,45,48,60,65,35
+Clefable,Fairy,Fairy Pokémon,1.3,40.0,1. Cute Charm2. Magic GuardUnaware (hidden ability),25,140,217,Fast,"25% male, 75% female",95,70,73,95,90,60
+Cleffa,Fairy,Star Shape Pokémon,0.3,3.0,1. Cute Charm2. Magic GuardFriend Guard (hidden ability),150,140,44,Fast,"25% male, 75% female",50,25,28,45,55,15
+Togepi,Fairy,Spike Ball Pokémon,0.3,1.5,1. Hustle2. Serene GraceSuper Luck (hidden ability),190,50,49,Fast,"87.5% male, 12.5% female",35,20,65,40,65,20
+Snubbull,Fairy,Fairy Pokémon,0.6,7.8,1. Intimidate2. Run AwayRattled (hidden ability),190,50,60,Fast,"25% male, 75% female",60,80,50,40,40,30
+Granbull,Fairy,Fairy Pokémon,1.4,48.7,1. Intimidate2. Quick FeetRattled (hidden ability),75,50,158,Fast,"25% male, 75% female",90,120,75,60,60,45
+Floette,Fairy,Single Bloom Pokémon,0.2,0.9,1. Flower VeilSymbiosis (hidden ability),120,50,130,Medium Fast,"0% male, 100% female",54,45,47,75,98,52
+Florges,Fairy,Garden Pokémon,1.1,10.0,1. Flower VeilSymbiosis (hidden ability),45,50,276,Medium Fast,"0% male, 100% female",78,65,68,112,154,75
+Spritzee,Fairy,Perfume Pokémon,0.2,0.5,1. HealerAroma Veil (hidden ability),200,50,68,Medium Fast,"50% male, 50% female",78,52,60,63,65,23
+Aromatisse,Fairy,Fragrance Pokémon,0.8,15.5,1. HealerAroma Veil (hidden ability),140,50,162,Medium Fast,"50% male, 50% female",101,72,72,99,89,29
+Swirlix,Fairy,Cotton Candy Pokémon,0.4,3.5,1. Sweet VeilUnburden (hidden ability),200,50,68,Medium Fast,"50% male, 50% female",62,48,66,59,57,49
+Slurpuff,Fairy,Meringue Pokémon,0.8,5.0,1. Sweet VeilUnburden (hidden ability),140,50,168,Medium Fast,"50% male, 50% female",82,80,86,85,75,72
+Sylveon,Fairy,Intertwining Pokémon,1.0,23.5,1. Cute CharmPixilate (hidden ability),45,50,184,Medium Fast,"87.5% male, 12.5% female",95,65,65,110,130,60
+Xerneas,Fairy,Life Pokémon,3.0,215.0,1. Fairy Aura,45,0,306,Slow,Genderless,126,131,95,131,98,99
+Comfey,Fairy,Posy Picker Pokémon,0.1,0.3,1. Flower Veil2. TriageNatural Cure (hidden ability),60,50,170,Fast,"25% male, 75% female",51,52,90,82,110,100
+Milcery,Fairy,Cream Pokémon,0.2,0.3,1. Sweet VeilAroma Veil (hidden ability),200,50,54,Medium Fast,"0% male, 100% female",45,40,40,50,61,34
+Alcremie,Fairy,Cream Pokémon,0.3,0.5,1. Sweet VeilAroma Veil (hidden ability),100,50,173,Medium Fast,"0% male, 100% female",65,60,75,110,121,64
+Fidough,Fairy,Puppy Pokémon,0.3,10.9,1. Own TempoKlutz (hidden ability),190,50,62,Medium Slow,"50% male, 50% female",37,55,70,30,55,65
+Dachsbun,Fairy,Dog Pokémon,0.5,14.9,1. Well-Baked BodyAroma Veil (hidden ability),90,50,167,Medium Slow,"50% male, 50% female",57,80,115,50,80,95

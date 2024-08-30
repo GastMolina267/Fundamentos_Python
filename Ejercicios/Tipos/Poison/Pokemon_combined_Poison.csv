@@ -1,0 +1,10 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Ekans,Poison,Snake Pokémon,2.0,6.9,1. Intimidate2. Shed SkinUnnerve (hidden ability),255,50,58,Medium Fast,"50% male, 50% female",35,60,44,40,54,55
+Arbok,Poison,Cobra Pokémon,3.5,65.0,1. Intimidate2. Shed SkinUnnerve (hidden ability),90,50,157,Medium Fast,"50% male, 50% female",60,95,69,65,79,80
+Koffing,Poison,Poison Gas Pokémon,0.6,1.0,1. Levitate2. Neutralizing GasStench (hidden ability),190,50,68,Medium Fast,"50% male, 50% female",40,65,95,60,45,35
+Gulpin,Poison,Stomach Pokémon,0.4,10.3,1. Liquid Ooze2. Sticky HoldGluttony (hidden ability),225,50,60,Fluctuating,"50% male, 50% female",70,43,53,43,53,40
+Swalot,Poison,Poison Bag Pokémon,1.7,80.0,1. Liquid Ooze2. Sticky HoldGluttony (hidden ability),75,50,163,Fluctuating,"50% male, 50% female",100,73,83,73,83,55
+Seviper,Poison,Fang Snake Pokémon,2.7,52.5,1. Shed SkinInfiltrator (hidden ability),90,50,160,Fluctuating,"50% male, 50% female",73,100,60,100,60,65
+Trubbish,Poison,Trash Bag Pokémon,0.6,31.0,1. Stench2. Sticky HoldAftermath (hidden ability),190,50,66,Medium Fast,"50% male, 50% female",50,50,62,40,62,65
+Garbodor,Poison,Trash Heap Pokémon,1.9,107.3,1. Stench2. Weak ArmorAftermath (hidden ability),60,50,166,Medium Fast,"50% male, 50% female",80,95,82,60,82,75
+Poipole,Poison,Poison Pin Pokémon,0.6,1.8,1. Beast Boost,45,0,189,Slow,Genderless,67,73,67,73,67,73

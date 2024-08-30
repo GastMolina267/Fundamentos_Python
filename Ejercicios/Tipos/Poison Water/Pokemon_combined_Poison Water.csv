@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Skrelp,Poison Water,Mock Kelp Pokémon,0.5,7.3,1. Poison Point2. Poison TouchAdaptability (hidden ability),225,50,64,Medium Fast,"50% male, 50% female",50,60,60,60,60,30
+Mareanie,Poison Water,Brutal Star Pokémon,0.4,8.0,1. Merciless2. LimberRegenerator (hidden ability),190,50,61,Medium Fast,"50% male, 50% female",50,53,62,43,52,45
+Toxapex,Poison Water,Brutal Star Pokémon,0.7,14.5,1. Merciless2. LimberRegenerator (hidden ability),75,50,173,Medium Fast,"50% male, 50% female",50,63,152,53,142,35

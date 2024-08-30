@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Smoliv,Grass Normal,Olive Pokémon,0.3,6.5,1. Early BirdHarvest (hidden ability),255,50,52,Medium Slow,"50% male, 50% female",41,35,45,58,51,30
+Dolliv,Grass Normal,Olive Pokémon,0.6,11.9,1. Early BirdHarvest (hidden ability),120,50,124,Medium Slow,"50% male, 50% female",52,53,60,78,78,33
+Arboliva,Grass Normal,Olive Pokémon,1.4,48.2,1. Seed SowerHarvest (hidden ability),45,50,255,Medium Slow,"50% male, 50% female",78,69,90,125,109,39

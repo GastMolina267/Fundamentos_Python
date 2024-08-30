@@ -1,0 +1,7 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Combusken,Fire Fighting,Young Fowl Pokémon,0.9,19.5,1. BlazeSpeed Boost (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",60,85,60,85,60,55
+Blaziken,Fire Fighting,Blaze Pokémon,1.9,52.0,Speed Boost,45,50,284,Medium Slow,"87.5% male, 12.5% female",80,160,80,130,80,100
+Monferno,Fire Fighting,Playful Pokémon,0.9,22.0,1. BlazeIron Fist (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",64,78,52,78,52,81
+Infernape,Fire Fighting,Flame Pokémon,1.2,55.0,1. BlazeIron Fist (hidden ability),45,50,240,Medium Slow,"87.5% male, 12.5% female",76,104,71,104,71,108
+Pignite,Fire Fighting,Fire Pig Pokémon,1.0,55.5,1. BlazeThick Fat (hidden ability),45,50,146,Medium Slow,"87.5% male, 12.5% female",90,93,55,70,55,55
+Emboar,Fire Fighting,Mega Fire Pig Pokémon,1.6,150.0,1. BlazeReckless (hidden ability),45,50,238,Medium Slow,"87.5% male, 12.5% female",110,123,65,100,65,65

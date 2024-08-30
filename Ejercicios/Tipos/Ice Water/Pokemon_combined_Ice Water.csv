@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Spheal,Ice Water,Clap Pokémon,0.8,39.5,1. Thick Fat2. Ice BodyOblivious (hidden ability),255,50,58,Medium Slow,"50% male, 50% female",70,40,50,55,50,25
+Sealeo,Ice Water,Ball Roll Pokémon,1.1,87.6,1. Thick Fat2. Ice BodyOblivious (hidden ability),120,50,144,Medium Slow,"50% male, 50% female",90,60,70,75,70,45
+Walrein,Ice Water,Ice Break Pokémon,1.4,150.6,1. Thick Fat2. Ice BodyOblivious (hidden ability),45,50,239,Medium Slow,"50% male, 50% female",110,80,90,95,90,65
+Iron Bundle,Ice Water,Paradox Pokémon,0.6,11.0,1. Quark Drive,50,0,285,Slow,Genderless,56,80,114,124,60,136

@@ -1,0 +1,3 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Sandshrew,Ice Steel,Mouse Pokémon,0.7,40.0,Snow Cloak Slush Rush,255,50,60,Medium Fast,"50% male, 50% female",50,75,90,10,35,40
+Sandslash,Ice Steel,Mouse Pokémon,1.2,55.0,Snow Cloak Slush Rush,90,50,158,Medium Fast,"50% male, 50% female",75,100,120,25,65,65

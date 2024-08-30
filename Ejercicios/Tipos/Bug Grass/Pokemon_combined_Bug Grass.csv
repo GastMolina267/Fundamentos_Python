@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Paras,Bug Grass,Mushroom Pokémon,0.3,5.4,1. Effect Spore2. Dry SkinDamp (hidden ability),190,50,57,Medium Fast,"50% male, 50% female",35,70,55,45,55,25
+Parasect,Bug Grass,Mushroom Pokémon,1.0,29.5,1. Effect Spore2. Dry SkinDamp (hidden ability),75,50,142,Medium Fast,"50% male, 50% female",60,95,80,60,80,30
+Sewaddle,Bug Grass,Sewing Pokémon,0.3,2.5,1. Swarm2. ChlorophyllOvercoat (hidden ability),255,50,62,Medium Slow,"50% male, 50% female",45,53,70,40,60,42
+Swadloon,Bug Grass,Leaf-Wrapped Pokémon,0.5,7.3,1. Leaf Guard2. ChlorophyllOvercoat (hidden ability),120,50,133,Medium Slow,"50% male, 50% female",55,63,90,50,80,42
+Leavanny,Bug Grass,Nurturing Pokémon,1.2,20.5,1. Swarm2. ChlorophyllOvercoat (hidden ability),45,50,225,Medium Slow,"50% male, 50% female",75,103,80,70,80,92

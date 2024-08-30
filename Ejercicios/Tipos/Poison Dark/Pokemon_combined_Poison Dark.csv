@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Grimer,Poison Dark,Sludge Pokémon,0.7,42.0,Poison Touch Gluttony Power of Alchemy,190,50,65,Medium Fast,"50% male, 50% female",80,80,50,40,50,25
+Muk,Poison Dark,Sludge Pokémon,1.0,52.0,Poison Touch Gluttony Power of Alchemy,75,50,175,Medium Fast,"50% male, 50% female",105,105,75,65,100,50
+Stunky,Poison Dark,Skunk Pokémon,0.4,19.2,1. Stench2. AftermathKeen Eye (hidden ability),225,50,66,Medium Fast,"50% male, 50% female",63,63,47,41,41,74
+Skuntank,Poison Dark,Skunk Pokémon,1.0,38.0,1. Stench2. AftermathKeen Eye (hidden ability),60,50,168,Medium Fast,"50% male, 50% female",103,93,67,71,61,84
+Drapion,Poison Dark,Ogre Scorp Pokémon,1.3,61.5,1. Battle Armor2. SniperKeen Eye (hidden ability),45,50,175,Slow,"50% male, 50% female",70,90,110,60,75,95

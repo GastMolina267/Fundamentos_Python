@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Yamask,Ground Ghost,Spirit Pokémon,0.5,1.5,Wandering Spirit,190,50,61,Medium Fast,"50% male, 50% female",38,55,85,30,65,30
+Golett,Ground Ghost,Automaton Pokémon,1.0,92.0,1. Iron Fist2. KlutzNo Guard (hidden ability),190,50,61,Medium Fast,Genderless,59,74,50,35,50,35
+Golurk,Ground Ghost,Automaton Pokémon,2.8,330.0,1. Iron Fist2. KlutzNo Guard (hidden ability),90,50,169,Medium Fast,Genderless,89,124,80,55,80,55
+Runerigus,Ground Ghost,Grudge Pokémon,1.6,66.6,1. Wandering Spirit,90,50,169,Medium Fast,"50% male, 50% female",58,95,145,50,105,30

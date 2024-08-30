@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Rattata,Dark Normal,Mouse Pokémon,0.3,3.8,Gluttony Hustle Thick Fat,255,50,51,Medium Fast,"50% male, 50% female",30,56,35,25,35,72
+Raticate,Dark Normal,Mouse Pokémon,0.7,25.5,Gluttony Hustle Thick Fat,127,50,145,Medium Fast,"50% male, 50% female",75,71,70,40,80,77
+Zigzagoon,Dark Normal,Tiny Raccoon Pokémon,0.4,17.5,Pickup Gluttony Quick Feet,255,50,56,Medium Fast,"50% male, 50% female",38,30,41,30,41,60
+Linoone,Dark Normal,Rushing Pokémon,0.5,32.5,Pickup Gluttony Quick Feet,90,50,147,Medium Fast,"50% male, 50% female",78,70,61,50,61,100
+Obstagoon,Dark Normal,Blocking Pokémon,1.6,46.0,1. Reckless2. GutsDefiant (hidden ability),45,50,260,Medium Fast,"50% male, 50% female",93,90,101,60,81,95

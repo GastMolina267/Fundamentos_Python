@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Rhyhorn,Ground Rock,Spikes Pokémon,1.0,115.0,1. Lightning Rod2. Rock HeadReckless (hidden ability),120,50,69,Slow,"50% male, 50% female",80,85,95,30,30,25
+Rhydon,Ground Rock,Drill Pokémon,1.9,120.0,1. Lightning Rod2. Rock HeadReckless (hidden ability),60,50,170,Slow,"50% male, 50% female",105,130,120,45,45,40
+Rhyperior,Ground Rock,Drill Pokémon,2.4,282.8,1. Lightning Rod2. Solid RockReckless (hidden ability),30,50,241,Slow,"50% male, 50% female",115,140,130,55,55,40

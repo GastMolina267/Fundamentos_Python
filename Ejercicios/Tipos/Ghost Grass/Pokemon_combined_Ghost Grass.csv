@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Phantump,Ghost Grass,Stump Pokémon,0.4,7.0,1. Natural Cure2. FriskHarvest (hidden ability),120,50,62,Medium Fast,"50% male, 50% female",43,70,48,50,60,38
+Trevenant,Ghost Grass,Elder Tree Pokémon,1.5,71.0,1. Natural Cure2. FriskHarvest (hidden ability),60,50,166,Medium Fast,"50% male, 50% female",85,110,76,65,82,56
+Pumpkaboo,Ghost Grass,Pumpkin Pokémon,0.8,15.0,Pickup Frisk Insomnia,120,50,67,Medium Fast,"50% male, 50% female",59,66,70,44,55,41
+Gourgeist,Ghost Grass,Pumpkin Pokémon,1.7,39.0,Pickup Frisk Insomnia,60,50,173,Medium Fast,"50% male, 50% female",85,100,122,58,75,54
+Dhelmise,Ghost Grass,Sea Creeper Pokémon,3.9,210.0,1. Steelworker,25,50,181,Medium Fast,Genderless,70,131,100,86,90,40

@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Kyurem,Dragon Ice,Boundary Pokémon,3.3,325.0,Teravolt,3,0,315,Slow,Genderless,125,170,100,120,90,95
+Frigibax,Dragon Ice,Ice Fin Pokémon,0.5,17.0,1. Thermal ExchangeIce Body (hidden ability),45,50,64,Slow,"50% male, 50% female",65,75,45,35,45,55
+Arctibax,Dragon Ice,Ice Fin Pokémon,0.8,30.0,1. Thermal ExchangeIce Body (hidden ability),25,50,148,Slow,"50% male, 50% female",90,95,66,45,65,62
+Baxcalibur,Dragon Ice,Ice Dragon Pokémon,2.1,210.0,1. Thermal ExchangeIce Body (hidden ability),10,50,300,Slow,"50% male, 50% female",115,145,92,75,86,87

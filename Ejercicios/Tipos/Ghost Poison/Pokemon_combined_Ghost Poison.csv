@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Gastly,Ghost Poison,Gas Pokémon,1.3,0.1,1. Levitate,190,50,62,Medium Slow,"50% male, 50% female",30,35,30,100,35,80
+Haunter,Ghost Poison,Gas Pokémon,1.6,0.1,1. Levitate,90,50,142,Medium Slow,"50% male, 50% female",45,50,45,115,55,95
+Gengar,Ghost Poison,Shadow Pokémon,1.4,40.5,Shadow Tag,45,50,270,Medium Slow,"50% male, 50% female",60,65,80,170,95,130

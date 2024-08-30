@@ -1,0 +1,9 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Articuno,Psychic Flying,Cruel Pokémon,1.7,50.9,Competitive,3,35,290,Slow,Genderless,90,85,85,125,100,95
+Natu,Psychic Flying,Tiny Bird Pokémon,0.2,2.0,1. Synchronize2. Early BirdMagic Bounce (hidden ability),190,50,64,Medium Fast,"50% male, 50% female",40,50,45,70,45,70
+Xatu,Psychic Flying,Mystic Pokémon,1.5,15.0,1. Synchronize2. Early BirdMagic Bounce (hidden ability),75,50,165,Medium Fast,"50% male, 50% female",65,75,70,95,70,95
+Lugia,Psychic Flying,Diving Pokémon,5.2,216.0,1. PressureMultiscale (hidden ability),3,0,306,Slow,Genderless,106,90,130,90,154,110
+Woobat,Psychic Flying,Bat Pokémon,0.4,2.1,1. Unaware2. KlutzSimple (hidden ability),190,50,65,Medium Fast,"50% male, 50% female",65,45,43,55,43,72
+Swoobat,Psychic Flying,Courting Pokémon,0.9,10.5,1. Unaware2. KlutzSimple (hidden ability),45,50,149,Medium Fast,"50% male, 50% female",67,57,55,77,55,114
+Sigilyph,Psychic Flying,Avianoid Pokémon,1.4,14.0,1. Wonder Skin2. Magic GuardTinted Lens (hidden ability),45,50,172,Medium Fast,"50% male, 50% female",72,58,80,103,80,97
+Braviary,Psychic Flying,Battle Cry Pokémon,1.7,43.4,Keen Eye Sheer Force Tinted Lens,60,50,179,Slow,"100% male, 0% female",110,83,70,112,70,65

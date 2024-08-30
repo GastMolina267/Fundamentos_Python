@@ -1,0 +1,28 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Charmander,Fire,Lizard Pokémon,0.6,8.5,1. BlazeSolar Power (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",39,52,43,60,50,65
+Charmeleon,Fire,Flame Pokémon,1.1,19.0,1. BlazeSolar Power (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",58,64,58,80,65,80
+Magmar,Fire,Spitfire Pokémon,1.3,44.5,1. Flame BodyVital Spirit (hidden ability),45,50,173,Medium Fast,"75% male, 25% female",65,95,57,100,85,93
+Flareon,Fire,Flame Pokémon,0.9,25.0,1. Flash FireGuts (hidden ability),45,50,184,Medium Fast,"87.5% male, 12.5% female",65,130,60,95,110,65
+Cyndaquil,Fire,Fire Mouse Pokémon,0.5,7.9,1. BlazeFlash Fire (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",39,52,43,60,50,65
+Quilava,Fire,Volcano Pokémon,0.9,19.0,1. BlazeFlash Fire (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",58,64,58,80,65,80
+Slugma,Fire,Lava Pokémon,0.7,35.0,1. Magma Armor2. Flame BodyWeak Armor (hidden ability),190,50,50,Medium Fast,"50% male, 50% female",40,40,40,70,40,20
+Magby,Fire,Live Coal Pokémon,0.7,21.4,1. Flame BodyVital Spirit (hidden ability),45,50,73,Medium Fast,"75% male, 25% female",45,75,37,70,55,83
+Entei,Fire,Volcano Pokémon,2.1,198.0,1. PressureInner Focus (hidden ability),3,35,261,Slow,Genderless,115,115,85,90,75,100
+Torchic,Fire,Chick Pokémon,0.4,2.5,1. BlazeSpeed Boost (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",45,60,40,70,50,45
+Torkoal,Fire,Coal Pokémon,0.5,80.4,1. White Smoke2. DroughtShell Armor (hidden ability),90,50,165,Medium Fast,"50% male, 50% female",70,85,140,85,70,20
+Chimchar,Fire,Chimp Pokémon,0.5,6.2,1. BlazeIron Fist (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",44,58,44,58,44,61
+Magmortar,Fire,Blast Pokémon,1.6,68.0,1. Flame BodyVital Spirit (hidden ability),30,50,243,Medium Fast,"75% male, 25% female",75,95,67,125,95,83
+Tepig,Fire,Fire Pig Pokémon,0.5,9.9,1. BlazeThick Fat (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",65,63,45,45,45,45
+Pansear,Fire,High Temp Pokémon,0.6,11.0,1. GluttonyBlaze (hidden ability),190,50,63,Medium Fast,"87.5% male, 12.5% female",50,53,48,53,48,64
+Simisear,Fire,Ember Pokémon,1.0,28.0,1. GluttonyBlaze (hidden ability),75,50,174,Medium Fast,"87.5% male, 12.5% female",75,98,63,98,63,101
+Heatmor,Fire,Anteater Pokémon,1.4,58.0,1. Gluttony2. Flash FireWhite Smoke (hidden ability),90,50,169,Medium Fast,"50% male, 50% female",85,97,66,105,66,65
+Fennekin,Fire,Fox Pokémon,0.4,9.4,1. BlazeMagician (hidden ability),45,50,61,Medium Slow,"87.5% male, 12.5% female",40,45,40,62,60,60
+Braixen,Fire,Fox Pokémon,1.0,14.5,1. BlazeMagician (hidden ability),45,50,143,Medium Slow,"87.5% male, 12.5% female",59,59,58,90,70,73
+Litten,Fire,Fire Cat Pokémon,0.4,4.3,1. BlazeIntimidate (hidden ability),45,50,64,Medium Slow,"87.5% male, 12.5% female",45,65,40,60,40,70
+Torracat,Fire,Fire Cat Pokémon,0.7,25.0,1. BlazeIntimidate (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",65,85,50,80,50,90
+Scorbunny,Fire,Rabbit Pokémon,0.3,4.5,1. BlazeLibero (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",50,71,40,40,40,69
+Raboot,Fire,Rabbit Pokémon,0.6,9.0,1. BlazeLibero (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",65,86,60,55,60,94
+Cinderace,Fire,Striker Pokémon,1.4,33.0,1. BlazeLibero (hidden ability),45,50,265,Medium Slow,"87.5% male, 12.5% female",80,116,75,65,75,119
+Fuecoco,Fire,Fire Croc Pokémon,0.4,9.8,1. BlazeUnaware (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",67,45,59,63,40,36
+Crocalor,Fire,Fire Croc Pokémon,1.0,30.7,1. BlazeUnaware (hidden ability),45,50,144,Medium Slow,"87.5% male, 12.5% female",81,55,78,90,58,49
+Charcadet,Fire,Fire Child Pokémon,0.6,10.5,1. Flash FireFlame Body (hidden ability),90,50,51,Slow,"50% male, 50% female",40,50,40,50,40,35

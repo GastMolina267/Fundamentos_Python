@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Litwick,Ghost Fire,Candle Pokémon,0.3,3.1,1. Flash Fire2. Flame BodyInfiltrator (hidden ability),190,50,55,Medium Slow,"50% male, 50% female",50,30,55,65,55,20
+Lampent,Ghost Fire,Lamp Pokémon,0.6,13.0,1. Flash Fire2. Flame BodyInfiltrator (hidden ability),90,50,130,Medium Slow,"50% male, 50% female",60,40,60,95,60,55
+Chandelure,Ghost Fire,Luring Pokémon,1.0,34.3,1. Flash Fire2. Flame BodyInfiltrator (hidden ability),45,50,234,Medium Slow,"50% male, 50% female",60,55,90,145,90,80

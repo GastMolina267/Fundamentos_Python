@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dragalge,Poison Dragon,Mock Kelp Pokémon,1.8,81.5,1. Poison Point2. Poison TouchAdaptability (hidden ability),55,50,173,Medium Fast,"50% male, 50% female",65,75,90,97,123,44
+Naganadel,Poison Dragon,Poison Pin Pokémon,3.6,150.0,1. Beast Boost,45,0,243,Slow,Genderless,73,73,73,127,73,121
+Eternatus,Poison Dragon,Gigantic Pokémon,100.0,950.0,Pressure,255,0,563,Slow,Genderless,255,115,250,125,250,130

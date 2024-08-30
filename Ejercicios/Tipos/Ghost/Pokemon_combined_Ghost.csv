@@ -1,0 +1,17 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Misdreavus,Ghost,Screech Pokémon,0.7,1.0,1. Levitate,45,35,87,Fast,"50% male, 50% female",60,60,60,85,85,85
+Corsola,Ghost,Coral Pokémon,0.6,0.5,Weak Armor Cursed Body,60,50,144,Fast,"25% male, 75% female",60,55,100,65,100,30
+Shuppet,Ghost,Puppet Pokémon,0.6,2.3,1. Insomnia2. FriskCursed Body (hidden ability),225,35,59,Fast,"50% male, 50% female",44,75,35,63,33,45
+Banette,Ghost,Marionette Pokémon,1.2,13.0,Prankster,45,35,194,Fast,"50% male, 50% female",64,165,75,93,83,75
+Duskull,Ghost,Requiem Pokémon,0.8,15.0,1. LevitateFrisk (hidden ability),190,35,59,Fast,"50% male, 50% female",20,40,90,30,90,25
+Dusclops,Ghost,Beckon Pokémon,1.6,30.6,1. PressureFrisk (hidden ability),90,35,159,Fast,"50% male, 50% female",40,70,130,60,130,25
+Mismagius,Ghost,Magical Pokémon,0.9,4.4,1. Levitate,45,35,173,Fast,"50% male, 50% female",60,60,60,105,105,105
+Dusknoir,Ghost,Gripper Pokémon,2.2,106.6,1. PressureFrisk (hidden ability),45,35,236,Fast,"50% male, 50% female",45,100,135,65,135,45
+Cofagrigus,Ghost,Coffin Pokémon,1.7,76.5,1. Mummy,90,50,169,Medium Fast,"50% male, 50% female",58,50,145,95,105,30
+Sinistea,Ghost,Black Tea Pokémon,0.1,0.2,1. Weak ArmorCursed Body (hidden ability),120,50,62,Medium Fast,Genderless,40,45,45,74,54,50
+Polteageist,Ghost,Black Tea Pokémon,0.2,0.4,1. Weak ArmorCursed Body (hidden ability),60,50,178,Medium Fast,Genderless,60,65,65,134,114,70
+Cursola,Ghost,Coral Pokémon,1.0,0.4,1. Weak ArmorPerish Body (hidden ability),30,50,179,Fast,"25% male, 75% female",60,95,50,145,130,30
+Spectrier,Ghost,Swift Horse Pokémon,2.0,44.5,1. Grim Neigh,3,35,290,Slow,Genderless,100,65,60,145,80,130
+Greavard,Ghost,Ghost Dog Pokémon,0.6,35.0,1. PickupFluffy (hidden ability),120,50,58,Medium Slow,"50% male, 50% female",50,61,60,30,55,34
+Houndstone,Ghost,Ghost Dog Pokémon,2.0,15.0,1. Sand RushFluffy (hidden ability),60,50,171,Medium Slow,"50% male, 50% female",72,101,100,50,97,68
+Gimmighoul,Ghost,Coin Hunter Pokémon,0.1,0.1,Run Away,45,50,60,Slow,Genderless,45,30,25,75,45,80

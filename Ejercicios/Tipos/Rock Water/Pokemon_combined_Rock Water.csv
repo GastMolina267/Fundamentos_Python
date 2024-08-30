@@ -1,0 +1,7 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Omanyte,Rock Water,Spiral Pokémon,0.4,7.5,1. Swift Swim2. Shell ArmorWeak Armor (hidden ability),45,50,71,Medium Fast,"87.5% male, 12.5% female",35,40,100,90,55,35
+Omastar,Rock Water,Spiral Pokémon,1.0,35.0,1. Swift Swim2. Shell ArmorWeak Armor (hidden ability),45,50,173,Medium Fast,"87.5% male, 12.5% female",70,60,125,115,70,55
+Kabuto,Rock Water,Shellfish Pokémon,0.5,11.5,1. Swift Swim2. Battle ArmorWeak Armor (hidden ability),45,50,71,Medium Fast,"87.5% male, 12.5% female",30,80,90,55,45,55
+Kabutops,Rock Water,Shellfish Pokémon,1.3,40.5,1. Swift Swim2. Battle ArmorWeak Armor (hidden ability),45,50,173,Medium Fast,"87.5% male, 12.5% female",60,115,105,65,70,80
+Binacle,Rock Water,Two-Handed Pokémon,0.5,31.0,1. Sniper2. Tough ClawsPickpocket (hidden ability),120,50,61,Medium Fast,"50% male, 50% female",42,52,67,39,56,50
+Barbaracle,Rock Water,Collective Pokémon,1.3,96.0,1. Sniper2. Tough ClawsPickpocket (hidden ability),45,50,175,Medium Fast,"50% male, 50% female",72,105,115,54,86,68

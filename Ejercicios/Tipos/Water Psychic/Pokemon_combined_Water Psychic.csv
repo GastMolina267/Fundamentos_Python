@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Starmie,Water Psychic,Mysterious Pokémon,1.1,80.0,1. Illuminate2. Natural CureAnalytic (hidden ability),60,50,182,Slow,Genderless,60,75,85,100,85,115
+Bruxish,Water Psychic,Gnash Teeth Pokémon,0.9,19.0,1. Dazzling2. Strong JawWonder Skin (hidden ability),80,50,166,Medium Fast,"50% male, 50% female",68,105,70,70,70,92
+Veluza,Water Psychic,Jettison Pokémon,2.5,90.0,1. Mold BreakerSharpness (hidden ability),100,50,167,Fast,"50% male, 50% female",90,102,73,78,65,70

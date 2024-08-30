@@ -1,0 +1,13 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Meowth,Steel,Scratch Cat Pokémon,0.4,7.5,Pickup Tough Claws Unnerve,255,50,58,Medium Fast,"50% male, 50% female",50,65,55,40,40,40
+Aggron,Steel,Iron Armor Pokémon,2.2,395.0,Filter,45,35,284,Slow,"50% male, 50% female",70,140,230,60,80,50
+Registeel,Steel,Iron Pokémon,1.9,205.0,1. Clear BodyLight Metal (hidden ability),3,35,261,Slow,Genderless,80,75,150,75,150,50
+Klink,Steel,Gear Pokémon,0.3,21.0,1. Plus2. MinusClear Body (hidden ability),130,50,60,Medium Slow,Genderless,40,55,70,45,60,30
+Klang,Steel,Gear Pokémon,0.6,51.0,1. Plus2. MinusClear Body (hidden ability),60,50,154,Medium Slow,Genderless,60,80,95,70,85,50
+Klinklang,Steel,Gear Pokémon,0.6,81.0,1. Plus2. MinusClear Body (hidden ability),30,50,234,Medium Slow,Genderless,60,100,115,70,85,90
+Meltan,Steel,Hex Nut Pokémon,0.2,8.0,1. Magnet Pull,3,0,150,Slow,Genderless,46,65,65,55,35,34
+Melmetal,Steel,Hex Nut Pokémon,2.5,800.0,1. Iron Fist,3,0,300,Slow,Genderless,135,143,143,80,65,34
+Perrserker,Steel,Viking Pokémon,0.8,28.0,1. Battle Armor2. Tough ClawsSteely Spirit (hidden ability),90,50,154,Medium Fast,"50% male, 50% female",70,110,100,50,60,50
+Cufant,Steel,Copperderm Pokémon,1.2,100.0,1. Sheer ForceHeavy Metal (hidden ability),190,50,66,Medium Fast,"50% male, 50% female",72,80,49,40,49,40
+Copperajah,Steel,Copperderm Pokémon,3.0,650.0,1. Sheer ForceHeavy Metal (hidden ability),90,50,175,Medium Fast,"50% male, 50% female",122,130,69,80,69,30
+Orthworm,Steel,Earthworm Pokémon,2.5,310.0,1. Earth EaterSand Veil (hidden ability),25,50,240,Slow,"50% male, 50% female",70,85,145,60,55,65

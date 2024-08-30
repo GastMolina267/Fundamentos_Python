@@ -1,0 +1,15 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Butterfree,Bug Flying,Butterfly Pokémon,1.1,32.0,1. Compound EyesTinted Lens (hidden ability),45,50,178,Medium Fast,"50% male, 50% female",60,45,50,90,80,70
+Scyther,Bug Flying,Mantis Pokémon,1.5,56.0,1. Swarm2. TechnicianSteadfast (hidden ability),45,50,100,Medium Fast,"50% male, 50% female",70,110,80,55,80,105
+Pinsir,Bug Flying,Stag Beetle Pokémon,1.7,59.0,Aerilate,45,50,210,Slow,"50% male, 50% female",65,155,120,65,90,105
+Ledyba,Bug Flying,Five Star Pokémon,1.0,10.8,1. Swarm2. Early BirdRattled (hidden ability),255,50,53,Fast,"50% male, 50% female",40,20,30,40,80,55
+Ledian,Bug Flying,Five Star Pokémon,1.4,35.6,1. Swarm2. Early BirdIron Fist (hidden ability),90,50,137,Fast,"50% male, 50% female",55,35,50,55,110,85
+Yanma,Bug Flying,Clear Wing Pokémon,1.2,38.0,1. Speed Boost2. Compound EyesFrisk (hidden ability),75,50,78,Medium Fast,"50% male, 50% female",65,65,45,75,45,95
+Beautifly,Bug Flying,Butterfly Pokémon,1.0,28.4,1. SwarmRivalry (hidden ability),45,50,178,Medium Fast,"50% male, 50% female",60,70,50,100,50,65
+Masquerain,Bug Flying,Eyeball Pokémon,0.8,3.6,1. IntimidateUnnerve (hidden ability),75,50,159,Medium Fast,"50% male, 50% female",70,60,62,100,82,80
+Ninjask,Bug Flying,Ninja Pokémon,0.8,12.0,1. Speed BoostInfiltrator (hidden ability),120,50,160,Erratic,"50% male, 50% female",61,90,45,50,50,160
+Mothim,Bug Flying,Moth Pokémon,0.9,23.3,1. SwarmTinted Lens (hidden ability),45,50,148,Medium Fast,"100% male, 0% female",70,94,50,94,50,66
+Combee,Bug Flying,Tiny Bee Pokémon,0.3,5.5,1. Honey GatherHustle (hidden ability),120,50,49,Medium Slow,"87.5% male, 12.5% female",30,30,42,30,42,70
+Vespiquen,Bug Flying,Beehive Pokémon,1.2,38.5,1. PressureUnnerve (hidden ability),45,50,166,Medium Slow,"0% male, 100% female",70,80,102,80,102,40
+Yanmega,Bug Flying,Ogre Darner Pokémon,1.9,51.5,1. Speed Boost2. Tinted LensFrisk (hidden ability),30,50,180,Medium Fast,"50% male, 50% female",86,76,86,116,56,95
+Vivillon,Bug Flying,Scale Pokémon,1.2,17.0,1. Shield Dust2. Compound EyesFriend Guard (hidden ability),45,50,206,Medium Fast,"50% male, 50% female",80,52,50,90,50,89

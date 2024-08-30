@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dialga,Steel Dragon,Temporal Pokémon,7.0,850.0,Pressure Telepathy,3,0,340,Slow,Genderless,100,100,120,150,120,90
+Sliggoo,Steel Dragon,Snail Pokémon,0.7,68.5,Sap Sipper Shell Armor Gooey,45,35,158,Slow,"50% male, 50% female",58,75,83,83,113,40
+Goodra,Steel Dragon,Shell Bunker Pokémon,1.7,334.1,Sap Sipper Shell Armor Gooey,45,35,300,Slow,"50% male, 50% female",80,100,100,110,150,60
+Duraludon,Steel Dragon,Alloy Pokémon,1.8,40.0,1. Light Metal2. Heavy MetalStalwart (hidden ability),45,50,187,Medium Fast,"50% male, 50% female",70,95,115,120,50,85
+Archaludon,Steel Dragon,Alloy Pokémon,2.0,60.0,1. Stamina2. SturdyStalwart (hidden ability),10,0,0,Medium Fast,"50% male, 50% female",90,105,130,125,65,85

@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Sandile,Ground Dark,Desert Croc Pokémon,0.7,15.2,1. Intimidate2. MoxieAnger Point (hidden ability),180,50,58,Medium Slow,"50% male, 50% female",50,72,35,35,35,65
+Krokorok,Ground Dark,Desert Croc Pokémon,1.0,33.4,1. Intimidate2. MoxieAnger Point (hidden ability),90,50,123,Medium Slow,"50% male, 50% female",60,82,45,45,45,74
+Krookodile,Ground Dark,Intimidation Pokémon,1.5,96.3,1. Intimidate2. MoxieAnger Point (hidden ability),45,50,260,Medium Slow,"50% male, 50% female",95,117,80,65,70,92

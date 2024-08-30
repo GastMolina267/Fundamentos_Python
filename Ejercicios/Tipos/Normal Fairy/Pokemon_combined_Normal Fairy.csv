@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Jigglypuff,Normal Fairy,Balloon Pokémon,0.5,5.5,1. Cute Charm2. CompetitiveFriend Guard (hidden ability),170,50,95,Fast,"25% male, 75% female",115,45,20,45,25,20
+Wigglytuff,Normal Fairy,Balloon Pokémon,1.0,12.0,1. Cute Charm2. CompetitiveFrisk (hidden ability),50,50,218,Fast,"25% male, 75% female",140,70,45,85,50,45
+Igglybuff,Normal Fairy,Balloon Pokémon,0.3,1.0,1. Cute Charm2. CompetitiveFriend Guard (hidden ability),170,50,42,Fast,"25% male, 75% female",90,30,15,40,20,15
+Azurill,Normal Fairy,Polka Dot Pokémon,0.2,2.0,1. Thick Fat2. Huge PowerSap Sipper (hidden ability),150,50,38,Fast,"25% male, 75% female",50,20,40,20,40,20
+Audino,Normal Fairy,Hearing Pokémon,1.5,32.0,Healer,255,50,425,Fast,"50% male, 50% female",103,60,126,80,126,50

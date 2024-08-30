@@ -1,0 +1,3 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Numel,Fire Ground,Numb Pokémon,0.7,24.0,1. Oblivious2. SimpleOwn Tempo (hidden ability),255,50,61,Medium Fast,"50% male, 50% female",60,60,40,65,45,35
+Camerupt,Fire Ground,Eruption Pokémon,2.5,320.5,Sheer Force,150,50,196,Medium Fast,"50% male, 50% female",70,120,100,145,105,20

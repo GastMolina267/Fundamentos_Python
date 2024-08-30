@@ -1,0 +1,41 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Abra,Psychic,Psi Pokémon,0.9,19.5,1. Synchronize2. Inner FocusMagic Guard (hidden ability),200,50,62,Medium Slow,"75% male, 25% female",25,20,15,105,55,90
+Kadabra,Psychic,Psi Pokémon,1.3,56.5,1. Synchronize2. Inner FocusMagic Guard (hidden ability),100,50,140,Medium Slow,"75% male, 25% female",40,35,30,120,70,105
+Alakazam,Psychic,Psi Pokémon,1.2,48.0,Trace,50,50,270,Medium Slow,"75% male, 25% female",55,50,65,175,105,150
+Ponyta,Psychic,Unique Horn Pokémon,0.8,24.0,Run Away Pastel Veil Anticipation,190,50,82,Medium Fast,"50% male, 50% female",50,85,55,65,65,90
+Slowpoke,Psychic,Dopey Pokémon,1.2,36.0,Gluttony Own Tempo Regenerator,190,50,63,Medium Fast,"50% male, 50% female",90,65,65,40,40,15
+Drowzee,Psychic,Hypnosis Pokémon,1.0,32.4,1. Insomnia2. ForewarnInner Focus (hidden ability),190,50,66,Medium Fast,"50% male, 50% female",60,48,45,43,90,42
+Hypno,Psychic,Hypnosis Pokémon,1.6,75.6,1. Insomnia2. ForewarnInner Focus (hidden ability),75,50,169,Medium Fast,"50% male, 50% female",85,73,70,73,115,67
+Mewtwo,Psychic,Genetic Pokémon,1.5,33.0,Insomnia,3,0,351,Slow,Genderless,106,150,70,194,120,140
+Mew,Psychic,New Species Pokémon,0.4,4.0,1. Synchronize,45,100,300,Medium Slow,Genderless,100,100,100,100,100,100
+Espeon,Psychic,Sun Pokémon,0.9,26.5,1. SynchronizeMagic Bounce (hidden ability),45,50,184,Medium Fast,"87.5% male, 12.5% female",65,65,60,130,95,110
+Unown,Psychic,Symbol Pokémon,0.5,5.0,1. Levitate,225,50,118,Medium Fast,Genderless,48,72,48,72,48,48
+Wobbuffet,Psychic,Patient Pokémon,1.3,28.5,1. Shadow TagTelepathy (hidden ability),45,50,142,Medium Fast,"50% male, 50% female",190,33,58,33,58,33
+Spoink,Psychic,Bounce Pokémon,0.7,30.6,1. Thick Fat2. Own TempoGluttony (hidden ability),255,50,66,Fast,"50% male, 50% female",60,25,35,70,80,60
+Grumpig,Psychic,Manipulate Pokémon,0.9,71.5,1. Thick Fat2. Own TempoGluttony (hidden ability),60,50,165,Fast,"50% male, 50% female",80,45,65,90,110,80
+Chimecho,Psychic,Wind Chime Pokémon,0.6,1.0,1. Levitate,45,50,159,Fast,"50% male, 50% female",75,50,80,95,90,65
+Wynaut,Psychic,Bright Pokémon,0.6,14.0,1. Shadow TagTelepathy (hidden ability),125,50,52,Medium Fast,"50% male, 50% female",95,23,48,23,48,23
+Deoxys,Psychic,DNA Pokémon,1.7,60.8,Pressure,3,0,270,Slow,Genderless,50,95,90,95,90,180
+Chingling,Psychic,Bell Pokémon,0.2,0.6,1. Levitate,120,50,57,Fast,"50% male, 50% female",45,30,50,65,50,45
+Uxie,Psychic,Knowledge Pokémon,0.3,0.3,1. Levitate,3,140,290,Slow,Genderless,75,75,130,75,130,95
+Mesprit,Psychic,Emotion Pokémon,0.3,0.3,1. Levitate,3,140,290,Slow,Genderless,80,105,105,105,105,80
+Azelf,Psychic,Willpower Pokémon,0.3,0.3,1. Levitate,3,140,290,Slow,Genderless,75,125,70,125,70,115
+Cresselia,Psychic,Lunar Pokémon,1.5,85.6,1. Levitate,3,100,290,Slow,"0% male, 100% female",120,70,110,75,120,85
+Munna,Psychic,Dream Eater Pokémon,0.6,23.3,1. Forewarn2. SynchronizeTelepathy (hidden ability),190,50,58,Fast,"50% male, 50% female",76,25,45,67,55,24
+Musharna,Psychic,Drowsing Pokémon,1.1,60.5,1. Forewarn2. SynchronizeTelepathy (hidden ability),75,50,170,Fast,"50% male, 50% female",116,55,85,107,95,29
+Gothita,Psychic,Fixation Pokémon,0.4,5.8,1. Frisk2. CompetitiveShadow Tag (hidden ability),200,50,58,Medium Slow,"25% male, 75% female",45,30,50,55,65,45
+Gothorita,Psychic,Manipulate Pokémon,0.7,18.0,1. Frisk2. CompetitiveShadow Tag (hidden ability),100,50,137,Medium Slow,"25% male, 75% female",60,45,70,75,85,55
+Gothitelle,Psychic,Astral Body Pokémon,1.5,44.0,1. Frisk2. CompetitiveShadow Tag (hidden ability),50,50,245,Medium Slow,"25% male, 75% female",70,55,95,95,110,65
+Solosis,Psychic,Cell Pokémon,0.3,1.0,1. Overcoat2. Magic GuardRegenerator (hidden ability),200,50,58,Medium Slow,"50% male, 50% female",45,30,40,105,50,20
+Duosion,Psychic,Mitosis Pokémon,0.6,8.0,1. Overcoat2. Magic GuardRegenerator (hidden ability),100,50,130,Medium Slow,"50% male, 50% female",65,40,50,125,60,30
+Reuniclus,Psychic,Multiplying Pokémon,1.0,20.1,1. Overcoat2. Magic GuardRegenerator (hidden ability),50,50,221,Medium Slow,"50% male, 50% female",110,65,75,125,85,30
+Elgyem,Psychic,Cerebral Pokémon,0.5,9.0,1. Telepathy2. SynchronizeAnalytic (hidden ability),255,50,67,Medium Fast,"50% male, 50% female",55,55,55,85,55,30
+Beheeyem,Psychic,Cerebral Pokémon,1.0,34.5,1. Telepathy2. SynchronizeAnalytic (hidden ability),90,50,170,Medium Fast,"50% male, 50% female",75,75,75,125,95,40
+Espurr,Psychic,Restraint Pokémon,0.3,3.5,1. Keen Eye2. InfiltratorOwn Tempo (hidden ability),190,50,71,Medium Fast,"50% male, 50% female",62,48,54,63,60,68
+Meowstic,Psychic,Constraint Pokémon,0.6,8.5,Keen Eye Infiltrator Competitive,75,50,163,Medium Fast,"0% male, 100% female",74,48,76,83,81,104
+Cosmog,Psychic,Nebula Pokémon,0.2,0.1,1. Unaware,45,0,40,Slow,Genderless,43,29,31,29,31,37
+Cosmoem,Psychic,Protostar Pokémon,0.1,999.9,1. Sturdy,45,0,140,Slow,Genderless,43,29,131,29,131,37
+Hatenna,Psychic,Calm Pokémon,0.4,3.4,1. Healer2. AnticipationMagic Bounce (hidden ability),235,50,53,Slow,"0% male, 100% female",42,30,45,56,53,39
+Hattrem,Psychic,Serene Pokémon,0.6,4.8,1. Healer2. AnticipationMagic Bounce (hidden ability),120,50,130,Slow,"0% male, 100% female",57,40,65,86,73,49
+Flittle,Psychic,Frill Pokémon,0.2,1.5,1. Anticipation2. FriskSpeed Boost (hidden ability),120,50,51,Medium Slow,"50% male, 50% female",30,35,30,55,30,75
+Espathra,Psychic,Ostrich Pokémon,1.9,90.0,1. Opportunist2. FriskSpeed Boost (hidden ability),60,50,168,Medium Slow,"50% male, 50% female",95,60,60,101,60,105

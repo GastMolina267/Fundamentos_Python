@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Ferroseed,Grass Steel,Thorn Seed Pokémon,0.6,18.8,1. Iron Barbs,255,50,61,Medium Fast,"50% male, 50% female",44,50,91,24,86,10
+Ferrothorn,Grass Steel,Thorn Pod Pokémon,1.0,110.0,1. Iron BarbsAnticipation (hidden ability),90,50,171,Medium Fast,"50% male, 50% female",74,94,131,54,116,20
+Kartana,Grass Steel,Drawn Sword Pokémon,0.3,0.1,1. Beast Boost,45,0,257,Slow,Genderless,59,181,131,59,31,109

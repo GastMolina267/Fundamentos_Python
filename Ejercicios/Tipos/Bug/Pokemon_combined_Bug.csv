@@ -1,0 +1,23 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Caterpie,Bug,Worm Pokémon,0.3,2.9,1. Shield DustRun Away (hidden ability),255,50,39,Medium Fast,"50% male, 50% female",45,30,35,20,20,45
+Metapod,Bug,Cocoon Pokémon,0.7,9.9,1. Shed Skin,120,50,72,Medium Fast,"50% male, 50% female",50,20,55,25,25,30
+Pineco,Bug,Bagworm Pokémon,0.6,7.2,1. SturdyOvercoat (hidden ability),190,50,58,Medium Fast,"50% male, 50% female",50,65,90,35,35,15
+Wurmple,Bug,Worm Pokémon,0.3,3.6,1. Shield DustRun Away (hidden ability),255,50,56,Medium Fast,"50% male, 50% female",45,45,35,20,30,20
+Silcoon,Bug,Cocoon Pokémon,0.6,10.0,1. Shed Skin,120,50,72,Medium Fast,"50% male, 50% female",50,35,55,25,25,15
+Cascoon,Bug,Cocoon Pokémon,0.7,11.5,1. Shed Skin,120,50,72,Medium Fast,"50% male, 50% female",50,35,55,25,25,15
+Volbeat,Bug,Firefly Pokémon,0.7,17.7,1. Illuminate2. SwarmPrankster (hidden ability),150,50,151,Erratic,"100% male, 0% female",65,73,75,47,85,85
+Illumise,Bug,Firefly Pokémon,0.6,17.7,1. Oblivious2. Tinted LensPrankster (hidden ability),150,50,151,Fluctuating,"0% male, 100% female",65,47,75,73,85,85
+Kricketot,Bug,Cricket Pokémon,0.3,2.2,1. Shed SkinRun Away (hidden ability),255,50,39,Medium Slow,"50% male, 50% female",37,25,41,25,41,25
+Kricketune,Bug,Cricket Pokémon,1.0,25.5,1. SwarmTechnician (hidden ability),45,50,134,Medium Slow,"50% male, 50% female",77,85,51,55,51,65
+Burmy,Bug,Bagworm Pokémon,0.2,3.4,Shed Skin Overcoat,120,50,45,Medium Fast,"50% male, 50% female",40,29,45,29,45,36
+Karrablast,Bug,Clamping Pokémon,0.5,5.9,1. Swarm2. Shed SkinNo Guard (hidden ability),200,50,63,Medium Fast,"50% male, 50% female",50,75,45,40,45,60
+Shelmet,Bug,Snail Pokémon,0.4,7.7,1. Hydration2. Shell ArmorOvercoat (hidden ability),200,50,61,Medium Fast,"50% male, 50% female",50,40,85,40,65,25
+Accelgor,Bug,Shell Out Pokémon,0.8,25.3,1. Hydration2. Sticky HoldUnburden (hidden ability),75,50,173,Medium Fast,"50% male, 50% female",80,70,40,100,60,145
+Scatterbug,Bug,Scatterdust Pokémon,0.3,2.5,1. Shield Dust2. Compound EyesFriend Guard (hidden ability),255,50,40,Medium Fast,"50% male, 50% female",38,35,40,27,25,35
+Spewpa,Bug,Scatterdust Pokémon,0.3,8.4,1. Shed SkinFriend Guard (hidden ability),120,50,75,Medium Fast,"50% male, 50% female",45,22,60,27,30,29
+Grubbin,Bug,Larva Pokémon,0.4,4.4,1. Swarm,255,50,60,Medium Fast,"50% male, 50% female",47,62,45,55,45,46
+Blipbug,Bug,Larva Pokémon,0.4,8.0,1. Swarm2. Compound EyesTelepathy (hidden ability),255,50,36,Medium Fast,"50% male, 50% female",25,20,20,25,45,45
+Tarountula,Bug,String Ball Pokémon,0.3,4.0,1. InsomniaStakeout (hidden ability),255,50,42,Erratic,"50% male, 50% female",35,41,45,29,40,20
+Spidops,Bug,Trap Pokémon,1.0,16.5,1. InsomniaStakeout (hidden ability),120,50,141,Erratic,"50% male, 50% female",60,79,92,52,86,35
+Nymble,Bug,Grasshopper Pokémon,0.2,1.0,1. SwarmTinted Lens (hidden ability),190,20,42,Medium Fast,"50% male, 50% female",33,46,40,21,25,45
+Rellor,Bug,Rolling Pokémon,0.2,1.0,1. Compound EyesShed Skin (hidden ability),190,50,54,Fast,"50% male, 50% female",41,50,60,31,58,30

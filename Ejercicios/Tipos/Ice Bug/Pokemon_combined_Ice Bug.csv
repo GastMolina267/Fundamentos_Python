@@ -1,0 +1,3 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Snom,Ice Bug,Worm Pokémon,0.3,3.8,1. Shield DustIce Scales (hidden ability),190,50,37,Medium Fast,"50% male, 50% female",30,25,35,45,30,20
+Frosmoth,Ice Bug,Frost Moth Pokémon,1.3,42.0,1. Shield DustIce Scales (hidden ability),75,50,166,Medium Fast,"50% male, 50% female",70,65,60,125,90,65

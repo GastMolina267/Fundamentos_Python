@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Ampharos,Electric Dragon,Light Pokémon,1.4,61.5,Mold Breaker,45,50,275,Medium Slow,"50% male, 50% female",90,95,105,165,110,45
+Dracozolt,Electric Dragon,Fossil Pokémon,1.8,190.0,1. Volt Absorb2. HustleSand Rush (hidden ability),45,50,177,Slow,Genderless,90,100,90,80,70,75
+Miraidon,Electric Dragon,Paradox Pokémon,3.5,240.0,1. Hadron Engine,3,0,335,Slow,Genderless,100,85,100,135,115,135
+Raging Bolt,Electric Dragon,Paradox Pokémon,5.2,480.0,1. Protosynthesis,10,0,0,Slow,Genderless,125,73,91,137,89,75

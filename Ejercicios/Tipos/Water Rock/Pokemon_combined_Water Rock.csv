@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Relicanth,Water Rock,Longevity Pokémon,1.0,23.4,1. Swift Swim2. Rock HeadSturdy (hidden ability),25,50,170,Slow,"87.5% male, 12.5% female",100,90,130,45,65,55
+Tirtouga,Water Rock,Prototurtle Pokémon,0.7,16.5,1. Solid Rock2. SturdySwift Swim (hidden ability),45,50,71,Medium Fast,"87.5% male, 12.5% female",54,78,103,53,45,22
+Carracosta,Water Rock,Prototurtle Pokémon,1.2,81.0,1. Solid Rock2. SturdySwift Swim (hidden ability),45,50,173,Medium Fast,"87.5% male, 12.5% female",74,108,133,83,65,32
+Drednaw,Water Rock,Bite Pokémon,1.0,115.5,1. Strong Jaw2. Shell ArmorSwift Swim (hidden ability),75,50,170,Medium Fast,"50% male, 50% female",90,115,90,48,68,74

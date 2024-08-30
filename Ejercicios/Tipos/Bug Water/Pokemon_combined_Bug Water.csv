@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Surskit,Bug Water,Pond Skater Pokémon,0.5,1.7,1. Swift SwimRain Dish (hidden ability),200,50,54,Medium Fast,"50% male, 50% female",40,30,32,50,52,65
+Wimpod,Bug Water,Turn Tail Pokémon,0.5,12.0,1. Wimp Out,90,50,46,Medium Fast,"50% male, 50% female",25,35,40,20,30,80
+Golisopod,Bug Water,Hard Scale Pokémon,2.0,108.0,1. Emergency Exit,45,50,186,Medium Fast,"50% male, 50% female",75,125,140,60,90,40

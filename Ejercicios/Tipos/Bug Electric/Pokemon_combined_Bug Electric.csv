@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Joltik,Bug Electric,Attaching Pokémon,0.1,0.6,1. Compound Eyes2. UnnerveSwarm (hidden ability),190,50,64,Medium Fast,"50% male, 50% female",50,47,50,57,50,65
+Galvantula,Bug Electric,EleSpider Pokémon,0.8,14.3,1. Compound Eyes2. UnnerveSwarm (hidden ability),75,50,165,Medium Fast,"50% male, 50% female",70,77,60,97,60,108
+Charjabug,Bug Electric,Battery Pokémon,0.5,10.5,1. Battery,120,50,140,Medium Fast,"50% male, 50% female",57,82,95,55,75,36
+Vikavolt,Bug Electric,Stag Beetle Pokémon,1.5,45.0,1. Levitate,45,50,225,Medium Fast,"50% male, 50% female",77,70,90,145,75,43

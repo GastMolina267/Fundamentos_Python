@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Kingdra,Water Dragon,Dragon Pokémon,1.8,152.0,1. Swift Swim2. SniperDamp (hidden ability),45,50,243,Medium Fast,"50% male, 50% female",75,95,95,95,95,85
+Palkia,Water Dragon,Spatial Pokémon,6.3,660.0,Pressure Telepathy,3,0,340,Slow,Genderless,90,100,100,150,120,120
+Dracovish,Water Dragon,Fossil Pokémon,2.3,215.0,1. Water Absorb2. Strong JawSand Rush (hidden ability),45,50,177,Slow,Genderless,90,90,100,70,80,75
+Walking Wake,Water Dragon,Paradox Pokémon,3.5,280.0,1. Protosynthesis,5,0,0,Slow,Genderless,99,83,91,125,83,109

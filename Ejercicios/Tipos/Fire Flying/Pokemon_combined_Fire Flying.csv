@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Charizard,Fire Flying,Flame Pokémon,1.7,100.5,Drought,45,50,285,Medium Slow,"87.5% male, 12.5% female",78,104,78,159,115,100
+Ho-oh,Fire Flying,Rainbow Pokémon,3.8,199.0,1. PressureRegenerator (hidden ability),3,0,306,Slow,Genderless,106,130,90,110,154,90
+Fletchinder,Fire Flying,Ember Pokémon,0.7,16.0,1. Flame BodyGale Wings (hidden ability),120,50,134,Medium Slow,"50% male, 50% female",62,73,55,56,52,84
+Talonflame,Fire Flying,Scorching Pokémon,1.2,24.5,1. Flame BodyGale Wings (hidden ability),45,50,175,Medium Slow,"50% male, 50% female",78,81,71,74,69,126

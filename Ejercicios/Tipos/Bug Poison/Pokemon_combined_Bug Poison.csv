@@ -1,0 +1,12 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Weedle,Bug Poison,Hairy Bug Pokémon,0.3,3.2,1. Shield DustRun Away (hidden ability),255,50,39,Medium Fast,"50% male, 50% female",40,35,30,20,20,50
+Kakuna,Bug Poison,Cocoon Pokémon,0.6,10.0,1. Shed Skin,120,50,72,Medium Fast,"50% male, 50% female",45,25,50,25,25,35
+Beedrill,Bug Poison,Poison Bee Pokémon,1.4,40.5,Adaptability,45,50,223,Medium Fast,"50% male, 50% female",65,150,40,15,80,145
+Venonat,Bug Poison,Insect Pokémon,1.0,30.0,1. Compound Eyes2. Tinted LensRun Away (hidden ability),190,50,61,Medium Fast,"50% male, 50% female",60,55,50,40,55,45
+Venomoth,Bug Poison,Poison Moth Pokémon,1.5,12.5,1. Shield Dust2. Tinted LensWonder Skin (hidden ability),75,50,158,Medium Fast,"50% male, 50% female",70,65,60,90,75,90
+Spinarak,Bug Poison,String Spit Pokémon,0.5,8.5,1. Swarm2. InsomniaSniper (hidden ability),255,50,50,Fast,"50% male, 50% female",40,60,40,40,40,30
+Ariados,Bug Poison,Long Leg Pokémon,1.1,33.5,1. Swarm2. InsomniaSniper (hidden ability),90,50,140,Fast,"50% male, 50% female",70,90,70,60,70,40
+Dustox,Bug Poison,Poison Moth Pokémon,1.2,31.6,1. Shield DustCompound Eyes (hidden ability),45,50,173,Medium Fast,"50% male, 50% female",60,50,70,50,90,65
+Venipede,Bug Poison,Centipede Pokémon,0.4,5.3,1. Poison Point2. SwarmSpeed Boost (hidden ability),255,50,52,Medium Slow,"50% male, 50% female",30,45,59,30,39,57
+Whirlipede,Bug Poison,Curlipede Pokémon,1.2,58.5,1. Poison Point2. SwarmSpeed Boost (hidden ability),120,50,126,Medium Slow,"50% male, 50% female",40,55,99,40,79,47
+Scolipede,Bug Poison,Megapede Pokémon,2.5,200.5,1. Poison Point2. SwarmSpeed Boost (hidden ability),45,50,218,Medium Slow,"50% male, 50% female",60,100,89,55,69,112

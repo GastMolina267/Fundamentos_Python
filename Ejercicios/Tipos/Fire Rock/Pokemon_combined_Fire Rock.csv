@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Growlithe,Fire Rock,Scout Pokémon,0.8,22.7,Intimidate Flash Fire Rock Head,190,50,70,Slow,"75% male, 25% female",60,75,45,65,50,55
+Arcanine,Fire Rock,Legendary Pokémon,2.0,168.0,Intimidate Flash Fire Rock Head,75,50,194,Slow,"75% male, 25% female",95,115,80,95,80,90
+Magcargo,Fire Rock,Lava Pokémon,0.8,55.0,1. Magma Armor2. Flame BodyWeak Armor (hidden ability),75,50,151,Medium Fast,"50% male, 50% female",60,50,120,90,80,30

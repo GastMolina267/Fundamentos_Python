@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Magnemite,Electric Steel,Magnet Pokémon,0.3,6.0,1. Magnet Pull2. SturdyAnalytic (hidden ability),190,50,65,Medium Fast,Genderless,25,35,70,95,55,45
+Magneton,Electric Steel,Magnet Pokémon,1.0,60.0,1. Magnet Pull2. SturdyAnalytic (hidden ability),60,50,163,Medium Fast,Genderless,50,60,95,120,70,70
+Magnezone,Electric Steel,Magnet Area Pokémon,1.2,180.0,1. Magnet Pull2. SturdyAnalytic (hidden ability),30,50,268,Medium Fast,Genderless,70,70,115,130,90,60
+Togedemaru,Electric Steel,Roly-Poly Pokémon,0.3,3.3,1. Iron Barbs2. Lightning RodSturdy (hidden ability),180,50,152,Medium Fast,"50% male, 50% female",65,98,63,40,73,96

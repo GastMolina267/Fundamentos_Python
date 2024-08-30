@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Croagunk,Poison Fighting,Toxic Mouth Pokémon,0.7,23.0,1. Anticipation2. Dry SkinPoison Touch (hidden ability),140,100,60,Medium Fast,"50% male, 50% female",48,61,40,61,40,50
+Toxicroak,Poison Fighting,Toxic Mouth Pokémon,1.3,44.4,1. Anticipation2. Dry SkinPoison Touch (hidden ability),75,50,172,Medium Fast,"50% male, 50% female",83,106,65,86,65,85
+Okidogi,Poison Fighting,Retainer Pokémon,1.8,92.0,1. Toxic ChainGuard Dog (hidden ability),3,0,0,Slow,"100% male, 0% female",88,128,115,58,86,80

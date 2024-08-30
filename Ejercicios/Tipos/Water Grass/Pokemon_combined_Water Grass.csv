@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Lotad,Water Grass,Water Weed Pokémon,0.5,2.6,1. Swift Swim2. Rain DishOwn Tempo (hidden ability),255,50,44,Medium Slow,"50% male, 50% female",40,30,30,40,50,30
+Lombre,Water Grass,Jolly Pokémon,1.2,32.5,1. Swift Swim2. Rain DishOwn Tempo (hidden ability),120,50,119,Medium Slow,"50% male, 50% female",60,50,50,60,70,50
+Ludicolo,Water Grass,Carefree Pokémon,1.5,55.0,1. Swift Swim2. Rain DishOwn Tempo (hidden ability),45,50,216,Medium Slow,"50% male, 50% female",80,70,70,90,100,70

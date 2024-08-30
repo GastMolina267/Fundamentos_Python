@@ -1,0 +1,9 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Quagsire,Water Ground,Water Fish Pokémon,1.4,75.0,1. Damp2. Water AbsorbUnaware (hidden ability),90,50,151,Medium Fast,"50% male, 50% female",95,85,85,65,65,35
+Marshtomp,Water Ground,Mud Fish Pokémon,0.7,28.0,1. TorrentDamp (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",70,85,70,60,70,50
+Swampert,Water Ground,Mud Fish Pokémon,1.9,102.0,Swift Swim,45,50,286,Medium Slow,"87.5% male, 12.5% female",100,150,110,95,110,70
+Barboach,Water Ground,Whiskers Pokémon,0.4,1.9,1. Oblivious2. AnticipationHydration (hidden ability),190,50,58,Medium Fast,"50% male, 50% female",50,48,43,46,41,60
+Whiscash,Water Ground,Whiskers Pokémon,0.9,23.6,1. Oblivious2. AnticipationHydration (hidden ability),75,50,164,Medium Fast,"50% male, 50% female",110,78,73,76,71,60
+Gastrodon,Water Ground,Sea Slug Pokémon,0.9,29.9,1. Sticky Hold2. Storm DrainSand Force (hidden ability),75,50,166,Medium Fast,"50% male, 50% female",111,83,68,92,82,39
+Palpitoad,Water Ground,Vibration Pokémon,0.8,17.0,1. Swift Swim2. HydrationWater Absorb (hidden ability),120,50,134,Medium Slow,"50% male, 50% female",75,65,55,65,55,69
+Seismitoad,Water Ground,Vibration Pokémon,1.5,62.0,1. Swift Swim2. Poison TouchWater Absorb (hidden ability),45,50,229,Medium Slow,"50% male, 50% female",105,95,75,85,75,74

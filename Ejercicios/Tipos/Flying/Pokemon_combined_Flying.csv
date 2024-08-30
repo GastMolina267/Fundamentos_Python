@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Tornadus,Flying,Cyclone Pokémon,1.4,63.0,Regenerator,3,90,290,Slow,"100% male, 0% female",79,100,80,110,90,121
+Rookidee,Flying,Tiny Bird Pokémon,0.2,1.8,1. Keen Eye2. UnnerveBig Pecks (hidden ability),255,50,49,Medium Slow,"50% male, 50% female",38,47,35,33,35,57
+Corvisquire,Flying,Raven Pokémon,0.8,16.0,1. Keen Eye2. UnnerveBig Pecks (hidden ability),120,50,128,Medium Slow,"50% male, 50% female",68,67,55,43,55,77

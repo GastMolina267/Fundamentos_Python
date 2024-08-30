@@ -1,0 +1,19 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Vulpix,Ice,Fox Pokémon,0.6,9.9,Snow Cloak Snow Warning,190,50,60,Medium Fast,"25% male, 75% female",38,41,40,50,65,65
+Castform,Ice,Weather Pokémon,0.3,0.8,Forecast,45,50,147,Medium Fast,"50% male, 50% female",70,70,70,70,70,70
+Snorunt,Ice,Snow Hat Pokémon,0.7,16.8,1. Inner Focus2. Ice BodyMoody (hidden ability),190,50,60,Medium Fast,"50% male, 50% female",50,50,50,50,50,50
+Glalie,Ice,Face Pokémon,2.1,350.2,Refrigerate,75,50,203,Medium Fast,"50% male, 50% female",80,120,80,120,80,100
+Regice,Ice,Iceberg Pokémon,1.8,175.0,1. Clear BodyIce Body (hidden ability),3,35,261,Slow,Genderless,80,50,100,100,200,50
+Glaceon,Ice,Fresh Snow Pokémon,0.8,25.9,1. Snow CloakIce Body (hidden ability),45,35,184,Medium Fast,"87.5% male, 12.5% female",65,60,110,130,95,65
+Darumaka,Ice,Zen Charm Pokémon,0.7,40.0,Hustle Inner Focus,120,50,63,Medium Slow,"50% male, 50% female",70,90,45,15,45,50
+Vanillite,Ice,Fresh Snow Pokémon,0.4,5.7,1. Ice Body2. Snow CloakWeak Armor (hidden ability),255,50,61,Slow,"50% male, 50% female",36,50,50,65,60,44
+Vanillish,Ice,Icy Snow Pokémon,1.1,41.0,1. Ice Body2. Snow CloakWeak Armor (hidden ability),120,50,138,Slow,"50% male, 50% female",51,65,65,80,75,59
+Vanilluxe,Ice,Snowstorm Pokémon,1.3,57.5,1. Ice Body2. Snow WarningWeak Armor (hidden ability),45,50,241,Slow,"50% male, 50% female",71,95,85,110,95,79
+Cubchoo,Ice,Chill Pokémon,0.5,8.5,1. Snow Cloak2. Slush RushRattled (hidden ability),120,50,61,Medium Fast,"50% male, 50% female",55,70,40,60,40,40
+Beartic,Ice,Freezing Pokémon,2.6,260.0,1. Snow Cloak2. Slush RushSwift Swim (hidden ability),60,50,177,Medium Fast,"50% male, 50% female",95,130,80,70,80,50
+Cryogonal,Ice,Crystallizing Pokémon,1.1,148.0,1. Levitate,25,50,180,Medium Fast,Genderless,80,50,50,95,135,105
+Bergmite,Ice,Ice Chunk Pokémon,1.0,99.5,1. Own Tempo2. Ice BodySturdy (hidden ability),190,50,61,Medium Fast,"50% male, 50% female",55,69,85,32,35,28
+Eiscue,Ice,Penguin Pokémon,1.4,89.0,Ice Face,60,50,165,Slow,"50% male, 50% female",75,80,70,65,50,130
+Glastrier,Ice,Wild Horse Pokémon,2.2,800.0,1. Chilling Neigh,3,35,290,Slow,Genderless,100,145,130,65,110,30
+Cetoddle,Ice,Terra Whale Pokémon,1.2,45.0,1. Thick Fat2. Snow CloakSheer Force (hidden ability),150,50,67,Medium Slow,"50% male, 50% female",108,68,45,30,40,43
+Cetitan,Ice,Terra Whale Pokémon,4.5,700.0,1. Thick Fat2. Slush RushSheer Force (hidden ability),50,50,182,Medium Slow,"50% male, 50% female",170,113,65,45,55,73

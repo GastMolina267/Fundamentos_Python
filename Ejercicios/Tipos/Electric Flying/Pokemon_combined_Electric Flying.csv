@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Emolga,Electric Flying,Sky Squirrel Pokémon,0.4,5.0,1. StaticMotor Drive (hidden ability),200,50,150,Medium Fast,"50% male, 50% female",55,75,60,75,60,103
+Thundurus,Electric Flying,Bolt Strike Pokémon,3.0,61.0,Volt Absorb,3,90,290,Slow,"100% male, 0% female",79,105,70,145,80,101
+Wattrel,Electric Flying,Storm Petrel Pokémon,0.4,3.6,1. Wind Power2. Volt AbsorbCompetitive (hidden ability),180,50,56,Medium Slow,"50% male, 50% female",40,40,35,55,40,70
+Kilowattrel,Electric Flying,Frigatebird Pokémon,1.4,38.6,1. Wind Power2. Volt AbsorbCompetitive (hidden ability),90,50,172,Medium Slow,"50% male, 50% female",70,70,60,105,60,125

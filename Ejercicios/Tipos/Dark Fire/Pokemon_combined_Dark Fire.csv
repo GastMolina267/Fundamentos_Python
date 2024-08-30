@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Houndour,Dark Fire,Dark Pokémon,0.6,10.8,1. Early Bird2. Flash FireUnnerve (hidden ability),120,35,66,Slow,"50% male, 50% female",45,60,30,80,50,65
+Houndoom,Dark Fire,Dark Pokémon,1.9,49.5,Solar Power,45,35,210,Slow,"50% male, 50% female",75,90,90,140,90,115
+Chi-Yu,Dark Fire,Ruinous Pokémon,0.4,4.9,1. Beads of Ruin,6,0,285,Slow,Genderless,55,80,80,135,120,100

@@ -1,0 +1,32 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Pikachu,Electric,Mouse Pokémon,0.4,6.0,Static,190,50,112,Medium Fast,"50% male, 50% female",45,80,50,75,60,120
+Electabuzz,Electric,Electric Pokémon,1.1,30.0,1. StaticVital Spirit (hidden ability),45,50,172,Medium Fast,"75% male, 25% female",65,83,57,95,85,105
+Jolteon,Electric,Lightning Pokémon,0.8,24.5,1. Volt AbsorbQuick Feet (hidden ability),45,50,184,Medium Fast,"87.5% male, 12.5% female",65,65,60,110,95,130
+Pichu,Electric,Tiny Mouse Pokémon,0.3,2.0,1. StaticLightning Rod (hidden ability),190,50,41,Medium Fast,"50% male, 50% female",20,40,15,35,35,60
+Mareep,Electric,Wool Pokémon,0.6,7.8,1. StaticPlus (hidden ability),235,50,56,Medium Slow,"50% male, 50% female",55,40,40,65,45,35
+Flaaffy,Electric,Wool Pokémon,0.8,13.3,1. StaticPlus (hidden ability),120,50,128,Medium Slow,"50% male, 50% female",70,55,55,80,60,45
+Elekid,Electric,Electric Pokémon,0.6,23.5,1. StaticVital Spirit (hidden ability),45,50,72,Medium Fast,"75% male, 25% female",45,63,37,65,55,95
+Raikou,Electric,Thunder Pokémon,1.9,178.0,1. PressureInner Focus (hidden ability),3,35,261,Slow,Genderless,90,85,75,115,100,115
+Electrike,Electric,Lightning Pokémon,0.6,15.2,1. Static2. Lightning RodMinus (hidden ability),120,50,59,Slow,"50% male, 50% female",40,45,40,65,40,65
+Manectric,Electric,Discharge Pokémon,1.8,44.0,Intimidate,45,50,201,Slow,"50% male, 50% female",70,75,80,135,80,135
+Plusle,Electric,Cheering Pokémon,0.4,4.2,1. PlusLightning Rod (hidden ability),200,50,142,Medium Fast,"50% male, 50% female",60,50,40,85,75,95
+Minun,Electric,Cheering Pokémon,0.4,4.2,1. MinusVolt Absorb (hidden ability),200,50,142,Medium Fast,"50% male, 50% female",60,40,50,75,85,95
+Shinx,Electric,Flash Pokémon,0.5,9.5,1. Rivalry2. IntimidateGuts (hidden ability),235,50,53,Medium Slow,"50% male, 50% female",45,65,34,40,34,45
+Luxio,Electric,Spark Pokémon,0.9,30.5,1. Rivalry2. IntimidateGuts (hidden ability),120,100,127,Medium Slow,"50% male, 50% female",60,85,49,60,49,60
+Luxray,Electric,Gleam Eyes Pokémon,1.4,42.0,1. Rivalry2. IntimidateGuts (hidden ability),45,50,262,Medium Slow,"50% male, 50% female",80,120,79,95,79,70
+Pachirisu,Electric,EleSquirrel Pokémon,0.4,3.9,1. Run Away2. PickupVolt Absorb (hidden ability),200,100,142,Medium Fast,"50% male, 50% female",60,45,70,45,90,95
+Electivire,Electric,Thunderbolt Pokémon,1.8,138.6,1. Motor DriveVital Spirit (hidden ability),30,50,243,Medium Fast,"75% male, 25% female",75,123,67,95,85,95
+Blitzle,Electric,Electrified Pokémon,0.8,29.8,1. Lightning Rod2. Motor DriveSap Sipper (hidden ability),190,50,59,Medium Fast,"50% male, 50% female",45,60,32,50,32,76
+Zebstrika,Electric,Thunderbolt Pokémon,1.6,79.5,1. Lightning Rod2. Motor DriveSap Sipper (hidden ability),75,50,174,Medium Fast,"50% male, 50% female",75,100,63,80,63,116
+Tynamo,Electric,EleFish Pokémon,0.2,0.3,1. Levitate,190,50,55,Slow,"50% male, 50% female",35,55,40,45,40,60
+Eelektrik,Electric,EleFish Pokémon,1.2,22.0,1. Levitate,60,50,142,Slow,"50% male, 50% female",65,85,70,75,70,40
+Eelektross,Electric,EleFish Pokémon,2.1,80.5,1. Levitate,30,50,258,Slow,"50% male, 50% female",85,115,80,105,80,50
+Xurkitree,Electric,Glowing Pokémon,3.8,100.0,1. Beast Boost,45,0,257,Slow,Genderless,83,89,71,173,71,83
+Zeraora,Electric,Thunderclap Pokémon,1.5,44.5,1. Volt Absorb,3,0,270,Slow,Genderless,88,112,75,102,80,143
+Yamper,Electric,Puppy Pokémon,0.3,13.5,1. Ball FetchRattled (hidden ability),255,50,54,Fast,"50% male, 50% female",59,45,50,40,50,26
+Boltund,Electric,Dog Pokémon,1.0,34.0,1. Strong JawCompetitive (hidden ability),45,50,172,Fast,"50% male, 50% female",69,90,60,90,60,121
+Pincurchin,Electric,Sea Urchin Pokémon,0.3,1.0,1. Lightning RodElectric Surge (hidden ability),75,50,152,Medium Fast,"50% male, 50% female",48,101,95,91,85,15
+Regieleki,Electric,Electron Pokémon,1.2,145.0,1. Transistor,3,35,290,Slow,Genderless,80,100,50,100,50,200
+Pawmi,Electric,Mouse Pokémon,0.3,2.5,1. Static2. Natural CureIron Fist (hidden ability),190,50,48,Medium Fast,"50% male, 50% female",45,50,20,40,25,60
+Tadbulb,Electric,EleTadpole Pokémon,0.3,0.4,1. Own Tempo2. StaticDamp (hidden ability),190,50,54,Medium Fast,"50% male, 50% female",61,31,41,59,35,45
+Bellibolt,Electric,EleFrog Pokémon,1.2,113.0,1. Electromorphosis2. StaticDamp (hidden ability),50,50,173,Medium Fast,"50% male, 50% female",109,64,91,103,83,45

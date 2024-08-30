@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Aerodactyl,Rock Flying,Fossil Pokémon,2.1,79.0,Tough Claws,45,50,215,Slow,"87.5% male, 12.5% female",80,135,85,70,95,150
+Archen,Rock Flying,First Bird Pokémon,0.5,9.5,1. Defeatist,45,50,71,Medium Fast,"87.5% male, 12.5% female",55,112,45,74,45,70
+Archeops,Rock Flying,First Bird Pokémon,1.4,32.0,1. Defeatist,45,50,177,Medium Fast,"87.5% male, 12.5% female",75,140,65,112,65,110
+Minior,Rock Flying,Meteor Pokémon,0.3,0.3,Shields Down,30,50,175,Medium Slow,Genderless,60,100,60,100,60,120

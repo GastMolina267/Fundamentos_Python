@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Togetic,Fairy Flying,Happiness Pokémon,0.6,3.2,1. Hustle2. Serene GraceSuper Luck (hidden ability),75,50,142,Fast,"87.5% male, 12.5% female",55,40,85,80,105,40
+Togekiss,Fairy Flying,Jubilee Pokémon,1.5,38.0,1. Hustle2. Serene GraceSuper Luck (hidden ability),30,50,245,Fast,"87.5% male, 12.5% female",85,50,95,120,115,80
+Enamorus,Fairy Flying,Love-Hate Pokémon,1.6,48.0,Overcoat,3,50,116,Slow,"0% male, 100% female",74,115,110,135,100,46

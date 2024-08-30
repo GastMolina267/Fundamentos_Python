@@ -1,0 +1,3 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Wooper,Poison Ground,Poison Fish Pokémon,0.4,11.0,Poison Point Water Absorb Unaware,255,50,42,Medium Fast,"50% male, 50% female",55,45,45,25,25,15
+Clodsire,Poison Ground,Spiny Fish Pokémon,1.8,223.0,1. Poison Point2. Water AbsorbUnaware (hidden ability),90,50,151,Medium Fast,"50% male, 50% female",130,75,60,45,100,20

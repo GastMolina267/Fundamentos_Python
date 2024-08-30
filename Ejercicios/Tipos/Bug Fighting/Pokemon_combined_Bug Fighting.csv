@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Heracross,Bug Fighting,Single Horn Pokémon,1.7,62.5,Skill Link,45,50,210,Slow,"50% male, 50% female",80,185,115,40,105,75
+Buzzwole,Bug Fighting,Swollen Pokémon,2.4,333.6,1. Beast Boost,45,0,257,Slow,Genderless,107,139,139,53,53,79
+Pheromosa,Bug Fighting,Lissome Pokémon,1.8,25.0,1. Beast Boost,45,0,257,Slow,Genderless,71,137,37,137,37,151
+Slither Wing,Bug Fighting,Paradox Pokémon,3.2,92.0,1. Protosynthesis,30,0,285,Slow,Genderless,85,135,79,85,105,81

@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Shuckle,Bug Rock,Mold Pokémon,0.6,20.5,1. Sturdy2. GluttonyContrary (hidden ability),190,50,177,Medium Slow,"50% male, 50% female",20,10,230,10,230,5
+Dwebble,Bug Rock,Rock Inn Pokémon,0.3,14.5,1. Sturdy2. Shell ArmorWeak Armor (hidden ability),190,50,65,Medium Fast,"50% male, 50% female",50,65,85,35,35,55
+Crustle,Bug Rock,Stone Home Pokémon,1.4,200.0,1. Sturdy2. Shell ArmorWeak Armor (hidden ability),75,50,170,Medium Fast,"50% male, 50% female",70,105,125,65,75,45
+Kleavor,Bug Rock,Axe Pokémon,1.8,89.0,1. Swarm2. Sheer ForceSharpness (hidden ability),15,50,175,Medium Fast,"50% male, 50% female",70,135,95,45,70,85

@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Slowbro,Poison Psychic,Hermit Crab Pokémon,1.6,70.5,Quick Draw Own Tempo Regenerator,75,50,172,Medium Fast,"50% male, 50% female",95,100,95,100,70,30
+Slowking,Poison Psychic,Hexpert Pokémon,1.8,79.5,Curious Medicine Own Tempo Regenerator,70,50,172,Medium Fast,"50% male, 50% female",95,65,80,110,110,30
+Munkidori,Poison Psychic,Retainer Pokémon,1.0,12.2,1. Toxic ChainFrisk (hidden ability),3,0,0,Slow,"100% male, 0% female",88,75,66,130,90,106

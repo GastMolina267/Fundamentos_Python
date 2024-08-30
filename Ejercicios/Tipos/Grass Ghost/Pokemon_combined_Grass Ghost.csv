@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Bramblin,Grass Ghost,Tumbleweed Pokémon,0.6,0.6,1. Wind RiderInfiltrator (hidden ability),190,50,55,Medium Fast,"50% male, 50% female",40,65,30,45,35,60
+Brambleghast,Grass Ghost,Tumbleweed Pokémon,1.2,6.0,1. Wind RiderInfiltrator (hidden ability),45,50,168,Medium Fast,"50% male, 50% female",55,115,70,80,70,90
+Poltchageist,Grass Ghost,Matcha Pokémon,0.1,1.1,1. HospitalityHeatproof (hidden ability),120,0,0,Medium Fast,Genderless,40,45,45,74,54,50
+Sinistcha,Grass Ghost,Matcha Pokémon,0.2,2.2,1. HospitalityHeatproof (hidden ability),60,0,0,Medium Fast,Genderless,71,60,106,121,80,70

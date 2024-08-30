@@ -1,0 +1,65 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Lickitung,Normal,Licking Pokémon,1.2,65.5,1. Own Tempo2. ObliviousCloud Nine (hidden ability),45,50,77,Medium Fast,"50% male, 50% female",90,55,75,60,75,30
+Chansey,Normal,Egg Pokémon,1.1,34.6,1. Natural Cure2. Serene GraceHealer (hidden ability),30,140,395,Fast,"0% male, 100% female",250,5,5,35,105,50
+Kangaskhan,Normal,Parent Pokémon,2.2,100.0,Parental Bond,45,50,207,Medium Fast,"0% male, 100% female",105,125,100,60,100,100
+Ditto,Normal,Transform Pokémon,0.3,4.0,1. LimberImposter (hidden ability),35,50,101,Medium Fast,Genderless,48,48,48,48,48,48
+Eevee,Normal,Evolution Pokémon,0.3,6.5,Run Away Adaptability,45,50,65,Medium Fast,"87.5% male, 12.5% female",65,75,70,65,85,75
+Porygon,Normal,Virtual Pokémon,0.8,36.5,1. Trace2. DownloadAnalytic (hidden ability),45,50,79,Medium Fast,Genderless,65,60,70,85,75,40
+Snorlax,Normal,Sleeping Pokémon,2.1,460.0,1. Immunity2. Thick FatGluttony (hidden ability),25,50,189,Slow,"87.5% male, 12.5% female",160,110,65,65,110,30
+Sentret,Normal,Scout Pokémon,0.8,6.0,1. Run Away2. Keen EyeFrisk (hidden ability),255,50,43,Medium Fast,"50% male, 50% female",35,46,34,35,45,20
+Furret,Normal,Long Body Pokémon,1.8,32.5,1. Run Away2. Keen EyeFrisk (hidden ability),90,50,145,Medium Fast,"50% male, 50% female",85,76,64,45,55,90
+Aipom,Normal,Long Tail Pokémon,0.8,11.5,1. Run Away2. PickupSkill Link (hidden ability),45,50,72,Fast,"50% male, 50% female",55,70,55,40,55,85
+Dunsparce,Normal,Land Snake Pokémon,1.5,14.0,1. Serene Grace2. Run AwayRattled (hidden ability),190,50,145,Medium Fast,"50% male, 50% female",100,70,70,65,65,45
+Teddiursa,Normal,Little Bear Pokémon,0.6,8.8,1. Pickup2. Quick FeetHoney Gather (hidden ability),120,50,66,Medium Fast,"50% male, 50% female",60,80,50,50,50,40
+Ursaring,Normal,Hibernator Pokémon,1.8,125.8,1. Guts2. Quick FeetUnnerve (hidden ability),60,50,175,Medium Fast,"50% male, 50% female",90,130,75,75,75,55
+Porygon2,Normal,Virtual Pokémon,0.6,32.5,1. Trace2. DownloadAnalytic (hidden ability),45,50,180,Medium Fast,Genderless,85,80,90,105,95,60
+Stantler,Normal,Big Horn Pokémon,1.4,71.2,1. Intimidate2. FriskSap Sipper (hidden ability),45,50,163,Slow,"50% male, 50% female",73,95,62,85,65,85
+Smeargle,Normal,Painter Pokémon,1.2,58.0,1. Own Tempo2. TechnicianMoody (hidden ability),45,50,88,Fast,"50% male, 50% female",55,20,35,20,45,75
+Miltank,Normal,Milk Cow Pokémon,1.2,75.5,1. Thick Fat2. ScrappySap Sipper (hidden ability),45,50,172,Slow,"0% male, 100% female",95,80,105,40,70,100
+Blissey,Normal,Happiness Pokémon,1.5,46.8,1. Natural Cure2. Serene GraceHealer (hidden ability),30,140,635,Fast,"0% male, 100% female",255,10,10,75,135,55
+Slakoth,Normal,Slacker Pokémon,0.8,24.0,1. Truant,255,50,56,Slow,"50% male, 50% female",60,60,60,35,35,30
+Vigoroth,Normal,Wild Monkey Pokémon,1.4,46.5,1. Vital Spirit,120,50,154,Slow,"50% male, 50% female",80,80,80,55,55,90
+Slaking,Normal,Lazy Pokémon,2.0,130.5,1. Truant,45,50,285,Slow,"50% male, 50% female",150,160,100,95,65,100
+Whismur,Normal,Whisper Pokémon,0.6,16.3,1. SoundproofRattled (hidden ability),190,50,48,Medium Slow,"50% male, 50% female",64,51,23,51,23,28
+Loudred,Normal,Big Voice Pokémon,1.0,40.5,1. SoundproofScrappy (hidden ability),120,50,126,Medium Slow,"50% male, 50% female",84,71,43,71,43,48
+Exploud,Normal,Loud Noise Pokémon,1.5,84.0,1. SoundproofScrappy (hidden ability),45,50,221,Medium Slow,"50% male, 50% female",104,91,63,91,73,68
+Skitty,Normal,Kitten Pokémon,0.6,11.0,1. Cute Charm2. NormalizeWonder Skin (hidden ability),255,50,52,Fast,"25% male, 75% female",50,45,45,35,35,50
+Delcatty,Normal,Prim Pokémon,1.1,32.6,1. Cute Charm2. NormalizeWonder Skin (hidden ability),60,50,140,Fast,"25% male, 75% female",70,65,65,55,55,90
+Spinda,Normal,Spot Panda Pokémon,1.1,5.0,1. Own Tempo2. Tangled FeetContrary (hidden ability),255,50,126,Fast,"50% male, 50% female",60,60,60,60,60,60
+Zangoose,Normal,Cat Ferret Pokémon,1.3,40.3,1. ImmunityToxic Boost (hidden ability),90,50,160,Erratic,"50% male, 50% female",73,115,60,60,60,90
+Kecleon,Normal,Color Swap Pokémon,1.0,22.0,1. Color ChangeProtean (hidden ability),200,50,154,Medium Slow,"50% male, 50% female",60,90,70,60,120,40
+Bidoof,Normal,Plump Mouse Pokémon,0.5,20.0,1. Simple2. UnawareMoody (hidden ability),255,50,50,Medium Fast,"50% male, 50% female",59,45,40,35,40,31
+Ambipom,Normal,Long Tail Pokémon,1.2,20.3,1. Technician2. PickupSkill Link (hidden ability),45,100,169,Fast,"50% male, 50% female",75,100,66,60,66,115
+Buneary,Normal,Rabbit Pokémon,0.4,5.5,1. Run Away2. KlutzLimber (hidden ability),190,0,70,Medium Fast,"50% male, 50% female",55,66,44,44,56,85
+Glameow,Normal,Catty Pokémon,0.5,3.9,1. Limber2. Own TempoKeen Eye (hidden ability),190,50,62,Fast,"25% male, 75% female",49,55,42,42,37,85
+Purugly,Normal,Tiger Cat Pokémon,1.0,43.8,1. Thick Fat2. Own TempoDefiant (hidden ability),75,50,158,Fast,"25% male, 75% female",71,82,64,64,59,112
+Happiny,Normal,Playhouse Pokémon,0.6,24.4,1. Natural Cure2. Serene GraceFriend Guard (hidden ability),130,140,110,Fast,"0% male, 100% female",100,5,5,15,65,30
+Munchlax,Normal,Big Eater Pokémon,0.6,105.0,1. Pickup2. Thick FatGluttony (hidden ability),50,50,78,Slow,"87.5% male, 12.5% female",135,85,40,40,85,5
+Lickilicky,Normal,Licking Pokémon,1.7,140.0,1. Own Tempo2. ObliviousCloud Nine (hidden ability),30,50,180,Medium Fast,"50% male, 50% female",110,85,95,80,95,50
+Porygon-Z,Normal,Virtual Pokémon,0.9,34.0,1. Adaptability2. DownloadAnalytic (hidden ability),30,50,241,Medium Fast,Genderless,85,80,70,135,75,90
+Regigigas,Normal,Colossal Pokémon,3.7,420.0,1. Slow Start,3,0,302,Slow,Genderless,110,160,110,80,110,100
+Arceus,Normal,Alpha Pokémon,3.2,320.0,1. Multitype,3,0,360,Slow,Genderless,120,120,120,120,120,120
+Patrat,Normal,Scout Pokémon,0.5,11.6,1. Run Away2. Keen EyeAnalytic (hidden ability),255,50,51,Medium Fast,"50% male, 50% female",45,55,39,35,39,42
+Watchog,Normal,Lookout Pokémon,1.1,27.0,1. Illuminate2. Keen EyeAnalytic (hidden ability),255,50,147,Medium Fast,"50% male, 50% female",60,85,69,60,69,77
+Lillipup,Normal,Puppy Pokémon,0.4,4.1,1. Vital Spirit2. PickupRun Away (hidden ability),255,50,55,Medium Slow,"50% male, 50% female",45,60,45,25,45,55
+Herdier,Normal,Loyal Dog Pokémon,0.9,14.7,1. Intimidate2. Sand RushScrappy (hidden ability),120,50,130,Medium Slow,"50% male, 50% female",65,80,65,35,65,60
+Stoutland,Normal,Big-Hearted Pokémon,1.2,61.0,1. Intimidate2. Sand RushScrappy (hidden ability),45,50,225,Medium Slow,"50% male, 50% female",85,110,90,45,90,80
+Minccino,Normal,Chinchilla Pokémon,0.4,5.8,1. Cute Charm2. TechnicianSkill Link (hidden ability),255,50,60,Fast,"25% male, 75% female",55,50,40,40,40,75
+Cinccino,Normal,Scarf Pokémon,0.5,7.5,1. Cute Charm2. TechnicianSkill Link (hidden ability),60,50,165,Fast,"25% male, 75% female",75,95,60,65,60,115
+Bouffalant,Normal,Bash Buffalo Pokémon,1.6,94.6,1. Reckless2. Sap SipperSoundproof (hidden ability),45,50,172,Medium Fast,"50% male, 50% female",95,110,95,40,95,55
+Bunnelby,Normal,Digging Pokémon,0.4,5.0,1. Pickup2. Cheek PouchHuge Power (hidden ability),255,50,47,Medium Fast,"50% male, 50% female",38,36,38,32,36,57
+Furfrou,Normal,Poodle Pokémon,1.2,28.0,1. Fur Coat,160,50,165,Medium Fast,"50% male, 50% female",75,80,60,65,90,102
+Yungoos,Normal,Loitering Pokémon,0.4,6.0,1. Strong Jaw2. StakeoutAdaptability (hidden ability),255,50,51,Medium Fast,"50% male, 50% female",48,70,30,30,30,45
+Gumshoos,Normal,Stakeout Pokémon,0.7,14.2,1. Strong Jaw2. StakeoutAdaptability (hidden ability),127,50,146,Medium Fast,"50% male, 50% female",88,110,60,55,60,45
+Silvally,Normal,Synthetic Pokémon,2.3,100.5,1. RKS System,3,0,257,Slow,Genderless,95,95,95,95,95,95
+Komala,Normal,Drowsing Pokémon,0.4,19.9,1. Comatose,45,50,168,Slow,"50% male, 50% female",65,115,65,75,95,65
+Skwovet,Normal,Cheeky Pokémon,0.3,2.5,1. Cheek PouchGluttony (hidden ability),255,50,55,Medium Fast,"50% male, 50% female",70,55,55,35,35,25
+Greedent,Normal,Greedy Pokémon,0.6,6.0,1. Cheek PouchGluttony (hidden ability),90,50,161,Medium Fast,"50% male, 50% female",120,95,95,55,75,20
+Wooloo,Normal,Sheep Pokémon,0.6,6.0,1. Fluffy2. Run AwayBulletproof (hidden ability),255,50,122,Medium Fast,"50% male, 50% female",42,40,55,40,45,48
+Dubwool,Normal,Sheep Pokémon,1.3,43.0,1. Fluffy2. SteadfastBulletproof (hidden ability),127,50,172,Medium Fast,"50% male, 50% female",72,80,100,60,90,88
+Lechonk,Normal,Hog Pokémon,0.5,10.2,1. Aroma Veil2. GluttonyThick Fat (hidden ability),255,50,51,Medium Fast,"50% male, 50% female",54,45,40,35,45,35
+Oinkologne,Normal,Hog Pokémon,1.0,120.0,Aroma Veil Gluttony Thick Fat,100,50,171,Medium Fast,"0% male, 100% female",115,90,70,59,90,65
+Tandemaus,Normal,Couple Pokémon,0.3,1.8,1. Run Away2. PickupOwn Tempo (hidden ability),150,50,61,Fast,Genderless,50,50,45,40,45,75
+Maushold,Normal,Family Pokémon,0.3,2.3,Friend Guard Cheek Pouch Technician,75,50,165,Fast,Genderless,74,75,70,65,75,111
+Dudunsparce,Normal,Land Snake Pokémon,4.5,47.4,Serene Grace Run Away Rattled,45,50,182,Medium Fast,"50% male, 50% female",125,100,80,85,75,55
+Terapagos,Normal,Tera Pokémon,1.7,77.0,Teraform Zero,255,0,0,Slow,"50% male, 50% female",160,105,110,130,110,85

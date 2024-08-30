@@ -1,0 +1,8 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Hoppip,Grass Flying,Cottonweed Pokémon,0.4,0.5,1. Chlorophyll2. Leaf GuardInfiltrator (hidden ability),255,50,50,Medium Slow,"50% male, 50% female",35,35,40,35,55,50
+Skiploom,Grass Flying,Cottonweed Pokémon,0.6,1.0,1. Chlorophyll2. Leaf GuardInfiltrator (hidden ability),120,50,119,Medium Slow,"50% male, 50% female",55,45,50,45,65,80
+Jumpluff,Grass Flying,Cottonweed Pokémon,0.8,3.0,1. Chlorophyll2. Leaf GuardInfiltrator (hidden ability),45,50,230,Medium Slow,"50% male, 50% female",75,55,70,55,95,110
+Tropius,Grass Flying,Fruit Pokémon,2.0,100.0,1. Chlorophyll2. Solar PowerHarvest (hidden ability),200,50,161,Slow,"50% male, 50% female",99,68,83,72,87,51
+Shaymin,Grass Flying,Gratitude Pokémon,0.4,5.2,Serene Grace,45,100,270,Medium Slow,Genderless,100,103,75,120,75,127
+Rowlet,Grass Flying,Grass Quill Pokémon,0.3,1.5,1. OvergrowLong Reach (hidden ability),45,50,64,Medium Slow,"87.5% male, 12.5% female",68,55,55,50,50,42
+Dartrix,Grass Flying,Blade Quill Pokémon,0.7,16.0,1. OvergrowLong Reach (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",78,75,75,70,70,52

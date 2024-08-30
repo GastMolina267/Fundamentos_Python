@@ -1,0 +1,18 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Sudowoodo,Rock,Imitation Pokémon,1.2,38.0,1. Sturdy2. Rock HeadRattled (hidden ability),65,50,144,Medium Fast,"50% male, 50% female",70,100,115,30,65,30
+Nosepass,Rock,Compass Pokémon,1.0,97.0,1. Sturdy2. Magnet PullSand Force (hidden ability),255,50,75,Medium Fast,"50% male, 50% female",30,45,135,45,90,30
+Regirock,Rock,Rock Peak Pokémon,1.7,230.0,1. Clear BodySturdy (hidden ability),3,35,261,Slow,Genderless,80,100,200,50,100,50
+Cranidos,Rock,Head Butt Pokémon,0.9,31.5,1. Mold BreakerSheer Force (hidden ability),45,50,70,Erratic,"87.5% male, 12.5% female",67,125,40,30,30,58
+Rampardos,Rock,Head Butt Pokémon,1.6,102.5,1. Mold BreakerSheer Force (hidden ability),45,50,173,Erratic,"87.5% male, 12.5% female",97,165,60,65,50,58
+Bonsly,Rock,Bonsai Pokémon,0.5,15.0,1. Sturdy2. Rock HeadRattled (hidden ability),255,50,58,Medium Fast,"50% male, 50% female",50,80,95,10,45,10
+Roggenrola,Rock,Mantle Pokémon,0.4,18.0,1. Sturdy2. Weak ArmorSand Force (hidden ability),255,50,56,Medium Slow,"50% male, 50% female",55,75,85,25,25,15
+Boldore,Rock,Ore Pokémon,0.9,102.0,1. Sturdy2. Weak ArmorSand Force (hidden ability),120,50,137,Medium Slow,"50% male, 50% female",70,105,105,50,40,20
+Gigalith,Rock,Compressed Pokémon,1.7,260.0,1. Sturdy2. Sand StreamSand Force (hidden ability),45,50,232,Medium Slow,"50% male, 50% female",85,135,130,60,80,25
+Rockruff,Rock,Puppy Pokémon,0.5,9.2,Own Tempo,190,50,56,Medium Fast,"50% male, 50% female",45,65,40,30,40,60
+Lycanroc,Rock,Wolf Pokémon,0.8,25.0,Tough Claws,90,50,170,Medium Fast,"50% male, 50% female",75,117,65,55,65,110
+Rolycoly,Rock,Coal Pokémon,0.3,12.0,1. Steam Engine2. HeatproofFlash Fire (hidden ability),255,50,48,Medium Slow,"50% male, 50% female",30,40,50,40,50,30
+Stonjourner,Rock,Big Rock Pokémon,2.5,520.0,1. Power Spot,60,50,165,Slow,"50% male, 50% female",100,125,135,20,20,70
+Nacli,Rock,Rock Salt Pokémon,0.4,16.0,1. Purifying Salt2. SturdyClear Body (hidden ability),255,50,56,Medium Slow,"50% male, 50% female",55,55,75,35,35,25
+Naclstack,Rock,Rock Salt Pokémon,0.6,105.0,1. Purifying Salt2. SturdyClear Body (hidden ability),120,50,124,Medium Slow,"50% male, 50% female",60,60,100,35,65,35
+Garganacl,Rock,Rock Salt Pokémon,2.3,240.0,1. Purifying Salt2. SturdyClear Body (hidden ability),45,50,250,Medium Slow,"50% male, 50% female",100,100,130,45,90,35
+Klawf,Rock,Ambush Pokémon,1.3,79.0,1. Anger Shell2. Shell ArmorRegenerator (hidden ability),120,50,158,Medium Fast,"50% male, 50% female",70,100,115,35,55,75

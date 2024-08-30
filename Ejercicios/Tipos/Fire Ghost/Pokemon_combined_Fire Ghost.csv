@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Marowak,Fire Ghost,Bone Keeper Pokémon,1.0,34.0,Cursed Body Lightning Rod Rock Head,75,50,149,Medium Fast,"50% male, 50% female",60,80,110,50,80,45
+Typhlosion,Fire Ghost,Ghost Flame Pokémon,1.6,69.8,Blaze Frisk,45,50,267,Medium Slow,"87.5% male, 12.5% female",73,84,78,119,85,95
+Blacephalon,Fire Ghost,Fireworks Pokémon,1.8,13.0,1. Beast Boost,30,0,257,Slow,Genderless,53,127,53,151,79,107
+Skeledirge,Fire Ghost,Singer Pokémon,1.6,326.5,1. BlazeUnaware (hidden ability),45,50,265,Medium Slow,"87.5% male, 12.5% female",104,75,100,110,75,66
+Ceruledge,Fire Ghost,Fire Blades Pokémon,1.6,62.0,1. Flash FireWeak Armor (hidden ability),25,20,263,Slow,"50% male, 50% female",75,125,80,60,100,85

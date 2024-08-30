@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dottler,Bug Psychic,Radome Pokémon,0.4,19.5,1. Swarm2. Compound EyesTelepathy (hidden ability),120,50,117,Medium Fast,"50% male, 50% female",50,35,80,50,90,30
+Orbeetle,Bug Psychic,Seven Spot Pokémon,0.4,40.8,1. Swarm2. FriskTelepathy (hidden ability),45,50,253,Medium Fast,"50% male, 50% female",60,45,110,80,120,90
+Rabsca,Bug Psychic,Rolling Pokémon,0.3,3.5,1. SynchronizeTelepathy (hidden ability),45,50,165,Fast,"50% male, 50% female",75,50,85,115,100,45

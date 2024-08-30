@@ -1,0 +1,44 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Tangela,Grass,Vine Pokémon,1.0,35.0,1. Chlorophyll2. Leaf GuardRegenerator (hidden ability),45,50,87,Medium Fast,"50% male, 50% female",65,55,115,100,40,60
+Chikorita,Grass,Leaf Pokémon,0.9,6.4,1. OvergrowLeaf Guard (hidden ability),45,50,64,Medium Slow,"87.5% male, 12.5% female",45,49,65,49,65,45
+Bayleef,Grass,Leaf Pokémon,1.2,15.8,1. OvergrowLeaf Guard (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",60,62,80,63,80,60
+Meganium,Grass,Herb Pokémon,1.8,100.5,1. OvergrowLeaf Guard (hidden ability),45,50,236,Medium Slow,"87.5% male, 12.5% female",80,82,100,83,100,80
+Bellossom,Grass,Flower Pokémon,0.4,5.8,1. ChlorophyllHealer (hidden ability),45,50,221,Medium Slow,"50% male, 50% female",75,80,95,90,100,50
+Sunkern,Grass,Seed Pokémon,0.3,1.8,1. Chlorophyll2. Solar PowerEarly Bird (hidden ability),235,50,36,Medium Slow,"50% male, 50% female",30,30,30,30,30,30
+Sunflora,Grass,Sun Pokémon,0.8,8.5,1. Chlorophyll2. Solar PowerEarly Bird (hidden ability),120,50,149,Medium Slow,"50% male, 50% female",75,75,55,105,85,30
+Treecko,Grass,Wood Gecko Pokémon,0.5,5.0,1. OvergrowUnburden (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",40,45,35,65,55,70
+Grovyle,Grass,Wood Gecko Pokémon,0.9,21.6,1. OvergrowUnburden (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",50,65,45,85,65,95
+Seedot,Grass,Acorn Pokémon,0.5,4.0,1. Chlorophyll2. Early BirdPickpocket (hidden ability),255,50,44,Medium Slow,"50% male, 50% female",40,40,50,30,30,30
+Shroomish,Grass,Mushroom Pokémon,0.4,4.5,1. Effect Spore2. Poison HealQuick Feet (hidden ability),255,50,59,Fluctuating,"50% male, 50% female",60,40,60,40,60,35
+Cacnea,Grass,Cactus Pokémon,0.4,51.3,1. Sand VeilWater Absorb (hidden ability),190,35,67,Medium Slow,"50% male, 50% female",50,85,40,85,40,35
+Turtwig,Grass,Tiny Leaf Pokémon,0.4,10.2,1. OvergrowShell Armor (hidden ability),45,50,64,Medium Slow,"87.5% male, 12.5% female",55,68,64,45,55,31
+Grotle,Grass,Grove Pokémon,1.1,97.0,1. OvergrowShell Armor (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",75,89,85,55,65,36
+Cherubi,Grass,Cherry Pokémon,0.4,3.3,1. Chlorophyll,190,50,55,Medium Fast,"50% male, 50% female",45,35,45,62,53,35
+Cherrim,Grass,Blossom Pokémon,0.5,9.3,1. Flower Gift,75,50,158,Medium Fast,"50% male, 50% female",70,60,70,87,78,85
+Carnivine,Grass,Bug Catcher Pokémon,1.4,27.0,1. Levitate,200,50,159,Slow,"50% male, 50% female",74,100,72,90,72,46
+Tangrowth,Grass,Vine Pokémon,2.0,128.6,1. Chlorophyll2. Leaf GuardRegenerator (hidden ability),30,50,187,Medium Fast,"50% male, 50% female",100,100,125,110,50,50
+Leafeon,Grass,Verdant Pokémon,1.0,25.5,1. Leaf GuardChlorophyll (hidden ability),45,35,184,Medium Fast,"87.5% male, 12.5% female",65,110,130,60,65,95
+Snivy,Grass,Grass Snake Pokémon,0.6,8.1,1. OvergrowContrary (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",45,45,55,45,55,63
+Servine,Grass,Grass Snake Pokémon,0.8,16.0,1. OvergrowContrary (hidden ability),45,50,145,Medium Slow,"87.5% male, 12.5% female",60,60,75,60,75,83
+Serperior,Grass,Regal Pokémon,3.3,63.0,1. OvergrowContrary (hidden ability),45,50,238,Medium Slow,"87.5% male, 12.5% female",75,75,95,75,95,113
+Pansage,Grass,Grass Monkey Pokémon,0.6,10.5,1. GluttonyOvergrow (hidden ability),190,50,63,Medium Fast,"87.5% male, 12.5% female",50,53,48,53,48,64
+Simisage,Grass,Thorn Monkey Pokémon,1.1,30.5,1. GluttonyOvergrow (hidden ability),75,50,174,Medium Fast,"87.5% male, 12.5% female",75,98,63,98,63,101
+Petilil,Grass,Bulb Pokémon,0.5,6.6,1. Chlorophyll2. Own TempoLeaf Guard (hidden ability),190,50,56,Medium Fast,"0% male, 100% female",45,35,50,70,50,30
+Maractus,Grass,Cactus Pokémon,1.0,28.0,1. Water Absorb2. ChlorophyllStorm Drain (hidden ability),255,50,161,Medium Fast,"50% male, 50% female",75,86,67,106,67,60
+Chespin,Grass,Spiny Nut Pokémon,0.4,9.0,1. OvergrowBulletproof (hidden ability),45,50,63,Medium Slow,"87.5% male, 12.5% female",56,61,65,48,45,38
+Quilladin,Grass,Spiny Armor Pokémon,0.7,29.0,1. OvergrowBulletproof (hidden ability),45,50,142,Medium Slow,"87.5% male, 12.5% female",61,78,95,56,58,57
+Skiddo,Grass,Mount Pokémon,0.9,31.0,1. Sap SipperGrass Pelt (hidden ability),200,50,70,Medium Fast,"50% male, 50% female",66,65,48,62,57,52
+Gogoat,Grass,Mount Pokémon,1.7,91.0,1. Sap SipperGrass Pelt (hidden ability),45,50,186,Medium Fast,"50% male, 50% female",123,100,62,97,81,68
+Fomantis,Grass,Sickle Grass Pokémon,0.3,1.5,1. Leaf GuardContrary (hidden ability),190,50,50,Medium Fast,"50% male, 50% female",40,55,35,50,35,35
+Lurantis,Grass,Bloom Sickle Pokémon,0.9,18.5,1. Leaf GuardContrary (hidden ability),75,50,168,Medium Fast,"50% male, 50% female",70,105,90,80,90,45
+Bounsweet,Grass,Fruit Pokémon,0.3,3.2,1. Leaf Guard2. ObliviousSweet Veil (hidden ability),235,50,42,Medium Slow,"0% male, 100% female",42,30,38,30,38,32
+Steenee,Grass,Fruit Pokémon,0.7,8.2,1. Leaf Guard2. ObliviousSweet Veil (hidden ability),120,50,102,Medium Slow,"0% male, 100% female",52,40,48,40,48,62
+Tsareena,Grass,Fruit Pokémon,1.2,21.4,1. Leaf Guard2. Queenly MajestySweet Veil (hidden ability),45,50,255,Medium Slow,"0% male, 100% female",72,120,98,50,98,72
+Grookey,Grass,Chimp Pokémon,0.3,5.0,1. OvergrowGrassy Surge (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",50,65,50,40,40,65
+Thwackey,Grass,Beat Pokémon,0.7,14.0,1. OvergrowGrassy Surge (hidden ability),45,50,147,Medium Slow,"87.5% male, 12.5% female",70,85,70,55,60,80
+Rillaboom,Grass,Drummer Pokémon,2.1,90.0,1. OvergrowGrassy Surge (hidden ability),45,50,265,Medium Slow,"87.5% male, 12.5% female",100,125,90,60,70,85
+Gossifleur,Grass,Flowering Pokémon,0.4,2.2,1. Cotton Down2. RegeneratorEffect Spore (hidden ability),190,50,50,Medium Fast,"50% male, 50% female",40,40,60,40,60,10
+Eldegoss,Grass,Cotton Bloom Pokémon,0.5,2.5,1. Cotton Down2. RegeneratorEffect Spore (hidden ability),75,50,161,Medium Fast,"50% male, 50% female",60,50,90,80,120,60
+Sprigatito,Grass,Grass Cat Pokémon,0.4,4.1,1. OvergrowProtean (hidden ability),45,50,62,Medium Slow,"87.5% male, 12.5% female",40,61,54,45,45,65
+Floragato,Grass,Grass Cat Pokémon,0.9,12.2,1. OvergrowProtean (hidden ability),45,50,144,Medium Slow,"87.5% male, 12.5% female",61,80,63,60,63,83
+Capsakid,Grass,Spicy Pepper Pokémon,0.3,3.0,1. Chlorophyll2. InsomniaKlutz (hidden ability),190,50,61,Medium Fast,"50% male, 50% female",50,62,40,62,40,50

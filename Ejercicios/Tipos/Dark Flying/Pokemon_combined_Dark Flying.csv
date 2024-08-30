@@ -1,0 +1,8 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Moltres,Dark Flying,Malevolent Pokémon,2.0,66.0,Berserk,3,35,290,Slow,Genderless,90,85,90,100,125,90
+Murkrow,Dark Flying,Darkness Pokémon,0.5,2.1,1. Insomnia2. Super LuckPrankster (hidden ability),30,35,81,Medium Slow,"50% male, 50% female",60,85,42,85,42,91
+Honchkrow,Dark Flying,Big Boss Pokémon,0.9,27.3,1. Insomnia2. Super LuckMoxie (hidden ability),30,35,177,Medium Slow,"50% male, 50% female",100,125,52,105,52,71
+Vullaby,Dark Flying,Diapered Pokémon,0.5,9.0,1. Big Pecks2. OvercoatWeak Armor (hidden ability),190,35,74,Slow,"0% male, 100% female",70,55,75,45,65,60
+Mandibuzz,Dark Flying,Bone Vulture Pokémon,1.2,39.5,1. Big Pecks2. OvercoatWeak Armor (hidden ability),60,35,179,Slow,"0% male, 100% female",110,65,105,55,95,80
+Yveltal,Dark Flying,Destruction Pokémon,5.8,203.0,1. Dark Aura,45,0,306,Slow,Genderless,126,131,95,131,98,99
+Iron Jugulis,Dark Flying,Paradox Pokémon,1.3,111.0,1. Quark Drive,30,0,285,Slow,Genderless,94,80,86,122,80,108

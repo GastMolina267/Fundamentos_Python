@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Gible,Dragon Ground,Land Shark Pokémon,0.7,20.5,1. Sand VeilRough Skin (hidden ability),45,50,60,Slow,"50% male, 50% female",58,70,45,40,45,42
+Gabite,Dragon Ground,Cave Pokémon,1.4,56.0,1. Sand VeilRough Skin (hidden ability),45,50,144,Slow,"50% male, 50% female",68,90,65,50,55,82
+Garchomp,Dragon Ground,Mach Pokémon,1.9,95.0,Sand Force,45,50,315,Slow,"50% male, 50% female",108,170,115,120,95,92
+Zygarde,Dragon Ground,Order Pokémon,4.5,610.0,Power Construct,3,0,319,Slow,Genderless,216,100,121,91,95,85

@@ -1,0 +1,12 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Dratini,Dragon,Dragon Pokémon,1.8,3.3,1. Shed SkinMarvel Scale (hidden ability),45,35,60,Slow,"50% male, 50% female",41,64,45,50,50,50
+Dragonair,Dragon,Dragon Pokémon,4.0,16.5,1. Shed SkinMarvel Scale (hidden ability),45,35,147,Slow,"50% male, 50% female",61,84,65,70,70,70
+Bagon,Dragon,Rock Head Pokémon,0.6,42.1,1. Rock HeadSheer Force (hidden ability),45,35,60,Slow,"50% male, 50% female",45,75,60,40,30,50
+Shelgon,Dragon,Endurance Pokémon,1.1,110.5,1. Rock HeadOvercoat (hidden ability),45,35,147,Slow,"50% male, 50% female",65,95,100,60,50,50
+Axew,Dragon,Tusk Pokémon,0.6,18.0,1. Rivalry2. Mold BreakerUnnerve (hidden ability),75,35,64,Slow,"50% male, 50% female",46,87,60,30,40,57
+Fraxure,Dragon,Axe Jaw Pokémon,1.0,36.0,1. Rivalry2. Mold BreakerUnnerve (hidden ability),60,35,144,Slow,"50% male, 50% female",66,117,70,40,50,67
+Haxorus,Dragon,Axe Jaw Pokémon,1.8,105.5,1. Rivalry2. Mold BreakerUnnerve (hidden ability),45,35,270,Slow,"50% male, 50% female",76,147,90,60,70,97
+Druddigon,Dragon,Cave Pokémon,1.6,139.0,1. Rough Skin2. Sheer ForceMold Breaker (hidden ability),45,50,170,Medium Fast,"50% male, 50% female",77,120,90,60,90,48
+Goomy,Dragon,Soft Tissue Pokémon,0.3,2.8,1. Sap Sipper2. HydrationGooey (hidden ability),45,35,60,Slow,"50% male, 50% female",45,50,35,55,75,40
+Jangmo-o,Dragon,Scaly Pokémon,0.6,29.7,1. Bulletproof2. SoundproofOvercoat (hidden ability),45,50,60,Slow,"50% male, 50% female",45,55,65,45,45,45
+Regidrago,Dragon,Dragon Orb Pokémon,2.1,200.0,1. Dragon's Maw,3,35,290,Slow,Genderless,200,100,50,100,50,80

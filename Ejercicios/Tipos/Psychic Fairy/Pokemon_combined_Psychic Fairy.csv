@@ -1,0 +1,7 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Rapidash,Psychic Fairy,Unique Horn Pokémon,1.7,80.0,Run Away Pastel Veil Anticipation,60,50,175,Medium Fast,"50% male, 50% female",65,100,70,80,80,105
+Ralts,Psychic Fairy,Feeling Pokémon,0.4,6.6,1. Synchronize2. TraceTelepathy (hidden ability),235,35,40,Slow,"50% male, 50% female",28,25,25,45,35,40
+Kirlia,Psychic Fairy,Emotion Pokémon,0.8,20.2,1. Synchronize2. TraceTelepathy (hidden ability),120,35,97,Slow,"50% male, 50% female",38,35,35,65,55,50
+Gardevoir,Psychic Fairy,Embrace Pokémon,1.6,48.4,Pixilate,45,35,278,Slow,"50% male, 50% female",68,85,65,165,135,100
+Tapu Lele,Psychic Fairy,Land Spirit Pokémon,1.2,18.6,1. Psychic SurgeTelepathy (hidden ability),3,50,257,Slow,Genderless,70,85,75,130,115,95
+Hatterene,Psychic Fairy,Silent Pokémon,2.1,5.1,1. Healer2. AnticipationMagic Bounce (hidden ability),45,50,255,Slow,"0% male, 100% female",57,90,95,136,103,29

@@ -1,0 +1,4 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Impidimp,Dark Fairy,Wily Pokémon,0.4,5.5,1. Prankster2. FriskPickpocket (hidden ability),255,50,53,Medium Fast,"100% male, 0% female",45,45,30,55,40,50
+Morgrem,Dark Fairy,Devious Pokémon,0.8,12.5,1. Prankster2. FriskPickpocket (hidden ability),120,50,130,Medium Fast,"100% male, 0% female",65,60,45,75,55,70
+Grimmsnarl,Dark Fairy,Bulk Up Pokémon,1.5,61.0,1. Prankster2. FriskPickpocket (hidden ability),45,50,255,Medium Fast,"100% male, 0% female",95,120,65,95,75,60

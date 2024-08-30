@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Deino,Dark Dragon,Irate Pokémon,0.8,17.3,1. Hustle,45,35,60,Slow,"50% male, 50% female",52,65,50,45,50,38
+Zweilous,Dark Dragon,Hostile Pokémon,1.4,50.0,1. Hustle,45,35,147,Slow,"50% male, 50% female",72,85,70,65,70,58
+Hydreigon,Dark Dragon,Brutal Pokémon,1.8,160.0,1. Levitate,45,35,300,Slow,"50% male, 50% female",92,105,90,125,90,98
+Guzzlord,Dark Dragon,Junkivore Pokémon,5.5,888.0,1. Beast Boost,45,0,257,Slow,Genderless,223,101,53,97,53,43

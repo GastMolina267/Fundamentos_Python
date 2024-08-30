@@ -1,0 +1,5 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Geodude,Rock Electric,Rock Pokémon,0.4,20.3,Magnet Pull Sturdy Galvanize,255,50,60,Medium Slow,"50% male, 50% female",40,80,100,30,30,20
+Graveler,Rock Electric,Rock Pokémon,1.0,110.0,Magnet Pull Sturdy Galvanize,120,50,137,Medium Slow,"50% male, 50% female",55,95,115,45,45,35
+Golem,Rock Electric,Megaton Pokémon,1.7,316.0,Magnet Pull Sturdy Galvanize,45,50,223,Medium Slow,"50% male, 50% female",80,120,130,55,65,45
+Iron Thorns,Rock Electric,Paradox Pokémon,1.6,303.0,1. Quark Drive,30,0,285,Slow,Genderless,100,134,110,70,84,72

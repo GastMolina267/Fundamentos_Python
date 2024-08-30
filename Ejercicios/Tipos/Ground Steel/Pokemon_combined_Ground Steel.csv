@@ -1,0 +1,6 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Diglett,Ground Steel,Mole Pokémon,0.2,1.0,Sand Veil Tangling Hair Sand Force,255,50,53,Medium Fast,"50% male, 50% female",10,55,30,35,45,90
+Dugtrio,Ground Steel,Mole Pokémon,0.7,66.6,Sand Veil Tangling Hair Sand Force,50,50,149,Medium Fast,"50% male, 50% female",35,100,60,50,70,110
+Excadrill,Ground Steel,Subterrene Pokémon,0.7,40.4,1. Sand Rush2. Sand ForceMold Breaker (hidden ability),60,50,178,Medium Fast,"50% male, 50% female",110,135,60,50,65,88
+Stunfisk,Ground Steel,Trap Pokémon,0.7,20.5,Mimicry,75,50,165,Medium Fast,"50% male, 50% female",109,81,99,66,84,32
+Iron Treads,Ground Steel,Paradox Pokémon,0.9,240.0,1. Quark Drive,30,0,285,Slow,Genderless,90,112,120,72,70,106

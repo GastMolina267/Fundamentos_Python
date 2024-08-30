@@ -1,0 +1,13 @@
+Name,Type,Species,Height,Weight,Abilities,Catch rate,Base Friendship,Base Exp.,Growth Rate,Gender,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed
+Persian,Dark,Classy Cat Pokémon,1.1,33.0,Fur Coat Technician Rattled,90,50,154,Medium Fast,"50% male, 50% female",65,60,60,75,65,115
+Umbreon,Dark,Moonlight Pokémon,1.0,27.0,1. SynchronizeInner Focus (hidden ability),45,35,184,Medium Fast,"87.5% male, 12.5% female",95,65,110,60,130,65
+Poochyena,Dark,Bite Pokémon,0.5,13.6,1. Run Away2. Quick FeetRattled (hidden ability),255,50,56,Medium Fast,"50% male, 50% female",35,55,35,30,30,35
+Mightyena,Dark,Bite Pokémon,1.0,37.0,1. Intimidate2. Quick FeetMoxie (hidden ability),127,50,147,Medium Fast,"50% male, 50% female",70,90,70,60,60,70
+Absol,Dark,Disaster Pokémon,1.2,49.0,Magic Bounce,30,35,198,Medium Slow,"50% male, 50% female",65,150,60,115,60,115
+Darkrai,Dark,Pitch-Black Pokémon,1.5,50.5,1. Bad Dreams,3,0,270,Slow,Genderless,70,90,90,135,90,125
+Purrloin,Dark,Devious Pokémon,0.4,10.1,1. Limber2. UnburdenPrankster (hidden ability),255,50,56,Medium Fast,"50% male, 50% female",41,50,37,50,37,66
+Liepard,Dark,Cruel Pokémon,1.1,37.5,1. Limber2. UnburdenPrankster (hidden ability),90,50,156,Medium Fast,"50% male, 50% female",64,88,50,88,50,106
+Nickit,Dark,Fox Pokémon,0.6,8.9,1. Run Away2. UnburdenStakeout (hidden ability),255,50,49,Fast,"50% male, 50% female",40,28,28,47,52,50
+Thievul,Dark,Fox Pokémon,1.2,19.9,1. Run Away2. UnburdenStakeout (hidden ability),127,50,159,Fast,"50% male, 50% female",70,58,58,87,92,90
+Maschiff,Dark,Rascal Pokémon,0.5,16.0,1. Intimidate2. Run AwayStakeout (hidden ability),150,50,68,Medium Slow,"50% male, 50% female",60,78,60,40,51,51
+Mabosstiff,Dark,Boss Pokémon,1.1,61.0,1. Intimidate2. Guard DogStakeout (hidden ability),75,50,177,Medium Slow,"50% male, 50% female",80,120,90,60,70,85
