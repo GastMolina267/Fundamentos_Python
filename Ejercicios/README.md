@@ -1,35 +1,22 @@
 # 🐍 Python Challenges & Exercises
 
-Bienvenido a la sección de **Ejercicios de Python**, donde cada desafío es una oportunidad para fortalecer tus habilidades y aprender algo nuevo. Aquí encontrarás una variedad de lecciones que abordan distintos aspectos de la programación en Python. ¡Atrévete a resolverlos y domina el arte del código!
+Bienvenido a la sección de **Ejercicios de Python**, donde cada desafío es una oportunidad para fortalecer tus habilidades y aprender algo nuevo. Aquí encontrarás una variedad de ejercicios que abordan distintos aspectos de la programación en Python. ¡Atrévete a resolverlos y domina el arte del código!
 
-## 📚 Lecciones y Desafíos
+## 📚 Ejercicios y Descripciones
 
-Cada lección está diseñada para enfocarse en conceptos clave, brindándote ejercicios prácticos que te ayudarán a consolidar tus conocimientos. A continuación, una visión general de los temas que abordamos:
+Cada ejercicio está diseñado para enfocarse en conceptos clave, brindándote la oportunidad de practicar y consolidar tus conocimientos. A continuación, una visión general de los ejercicios que abordamos:
 
-### 🔍 Lección 1: Fundamentos de Python
-- **Ejercicio 1.1**: Variables y Tipos de Datos
-- **Ejercicio 1.2**: Operadores y Expresiones
-- **Ejercicio 1.3**: Estructuras de Control de Flujo
+### 🖩 Calculadora Básica
+- **Calculadora_01.py**: Una calculadora básica que realiza operaciones simples como suma, resta, multiplicación, y división. Ideal para entender los fundamentos de las operaciones matemáticas en Python.
 
-### 🔧 Lección 2: Funciones y Módulos
-- **Ejercicio 2.1**: Creación de Funciones
-- **Ejercicio 2.2**: Uso de Módulos
-- **Ejercicio 2.3**: Argumentos y Retorno de Valores
+### 🎨 Calculadora Personalizada
+- **Calculadora_02.py**: Una calculadora más avanzada que incluye un modo claro y oscuro, es responsive y tiene una interfaz más atractiva. Perfecta para quienes desean explorar la personalización y mejorar la experiencia del usuario.
 
-### 📊 Lección 3: Manejo de Datos
-- **Ejercicio 3.1**: Listas y Tuplas
-- **Ejercicio 3.2**: Diccionarios y Conjuntos
-- **Ejercicio 3.3**: Iteraciones y Comprensiones
+### 🚢 Análisis del Titanic
+- **Titanic.ipynb**: Un notebook que se enfoca en limpiar y procesar un conjunto de datos de un archivo Excel, específicamente sobre los pasajeros del Titanic. Es una excelente oportunidad para aprender sobre manipulación de datos en Python usando pandas.
 
-### 🌐 Lección 4: Programación Orientada a Objetos
-- **Ejercicio 4.1**: Clases y Objetos
-- **Ejercicio 4.2**: Herencia y Polimorfismo
-- **Ejercicio 4.3**: Métodos y Encapsulamiento
-
-### 🔄 Lección 5: Manejo de Errores y Excepciones
-- **Ejercicio 5.1**: Captura de Excepciones
-- **Ejercicio 5.2**: Personalización de Excepciones
-- **Ejercicio 5.3**: Limpieza de Recursos
+### 📂 Organización de Pokémon
+- **Carpetas_Excel.ipynb**: Este notebook se encarga de distribuir en subcarpetas los Pokémon según su tipo, basado en la información proporcionada en un archivo Excel. Ideal para quienes desean aprender sobre la organización de archivos y el manejo de datos en Python.
 
 ## 🚀 Cómo Empezar
 
@@ -37,9 +24,9 @@ Cada lección está diseñada para enfocarse en conceptos clave, brindándote ej
    ```bash
    git clone https://github.com/GastMolina267/ejercicios-python.git
 2. **Explora las carpetas**: 
-    Cada lección tiene su carpeta con los respectivos ejercicios.
+    Cada ejercicio tiene su propio archivo con el código correspondiente.
 3. **Resuelve los desafíos**: 
     ¡Manos a la obra! Puedes resolver los ejercicios en tu propio entorno de desarrollo.
 
-## 🎯 Contribuciones
+## 🎯Contribuciones
 Si deseas contribuir con nuevos desafíos o mejorar los existentes, siéntete libre de abrir un pull request o crear un issue. ¡Toda colaboración es bienvenida!
