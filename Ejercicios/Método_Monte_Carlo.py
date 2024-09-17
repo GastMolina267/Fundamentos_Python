@@ -1,6 +1,7 @@
 import random
 import math
 
+# Implementación del experimento de la aguja de Buffon
 def monte_carlo_buffon_needle(num_throws, needle_length, line_distance):
     crosses = 0
 
@@ -23,6 +24,15 @@ num_throws = 100000  # Número de lanzamientos de la aguja
 needle_length = 1.0  # Longitud de la aguja
 line_distance = 1.0  # Distancia entre las líneas
 
-# Estimar Pi
+# Estimar Pi con el experimento de Buffon
 approx_pi = monte_carlo_buffon_needle(num_throws, needle_length, line_distance)
-print(f"Approximation of Pi using Buffon's Needle with {num_throws} throws: {approx_pi}")
+
+# Valor de Pi original con 20 decimales
+pi_original = 3.14159265358979323846
+
+# Calcular el porcentaje de error
+error_percentage = abs((approx_pi - pi_original) / pi_original) * 100
+approx_pi, error_percentage
+
+print(approx_pi)
+print(error_percentage)
